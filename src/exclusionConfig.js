@@ -181,7 +181,7 @@ const exclusionRules = [
   Head: ["Barbarian Helmet", "BK Hat", "Black Bandana", "Blonde", "Brunet", "Buccaneer Cap", "Bucket Hat", 
   "Chartist", "Clean Fade", "Cowboy Hat", "Dreadlocks", "First Knight Helm", "Forest Camo Helmet", "Gangster Hat",
   "Golden Mane", "Gun Top", "Hadoken", "Hipster Blue", "Hipster Red", "Kangol", "Legion Helmet", "Mage Hat", "Man Bun",
-  "Newsboy", "No Hat", "Oni Mask", "ReBoot Trucker", "Sailor Hat", "Ski Mask", "Solana Cap", "Sombrero",
+  "Newsboy", "Oni Mask", "ReBoot Trucker", "Sailor Hat", "Ski Mask", "Solana Cap", "Sombrero",
   "Tactical Helmet", "The King", "Undercut", "Valkyrie", "Vipers", "White Bandana", "ZAMN",],
 },
 {
@@ -189,7 +189,7 @@ const exclusionRules = [
   Head: ["Barbarian Helmet", "BK Hat", "Black Bandana", "Blonde", "Brunet", "Buccaneer Cap", "Bucket Hat", 
   "Chartist", "Clean Fade", "Cowboy Hat", "Dreadlocks", "First Knight Helm", "Forest Camo Helmet", "Gangster Hat",
   "Golden Mane", "Gun Top", "Hadoken", "Hipster Blue", "Hipster Red", "Kangol", "Legion Helmet", "Mage Hat", "Man Bun",
-  "Newsboy", "No Hat", "Oni Mask", "ReBoot Trucker", "Sailor Hat", "Ski Mask", "Solana Cap", "Sombrero",
+  "Newsboy", "Oni Mask", "ReBoot Trucker", "Sailor Hat", "Ski Mask", "Solana Cap", "Sombrero",
   "Tactical Helmet", "The King", "Undercut", "Valkyrie", "Vipers", "White Bandana", "ZAMN",],
 },
 {
@@ -197,7 +197,7 @@ const exclusionRules = [
   Head: ["Barbarian Helmet", "BK Hat", "Black Bandana", "Blonde", "Brunet", "Buccaneer Cap", "Bucket Hat", 
   "Chartist", "Clean Fade", "Cowboy Hat", "Dreadlocks", "First Knight Helm", "Forest Camo Helmet", "Gangster Hat",
   "Golden Mane", "Gun Top", "Hadoken", "Hipster Blue", "Hipster Red", "Kangol", "Legion Helmet", "Mage Hat", "Man Bun",
-  "Newsboy", "No Hat", "Oni Mask", "ReBoot Trucker", "Sailor Hat", "Ski Mask", "Solana Cap", "Sombrero",
+  "Newsboy", "Oni Mask", "ReBoot Trucker", "Sailor Hat", "Ski Mask", "Solana Cap", "Sombrero",
   "Tactical Helmet", "The King", "Undercut", "Valkyrie", "Vipers", "White Bandana", "ZAMN",],
 },
 {
@@ -205,7 +205,7 @@ const exclusionRules = [
   Head: ["Barbarian Helmet", "BK Hat", "Black Bandana", "Blonde", "Brunet", "Buccaneer Cap", "Bucket Hat", 
   "Chartist", "Clean Fade", "Cowboy Hat", "Dreadlocks", "First Knight Helm", "Forest Camo Helmet", "Gangster Hat",
   "Golden Mane", "Gun Top", "Hadoken", "Hipster Blue", "Hipster Red", "Kangol", "Legion Helmet", "Mage Hat", "Man Bun",
-  "Newsboy", "No Hat", "Oni Mask", "ReBoot Trucker", "Sailor Hat", "Ski Mask", "Solana Cap", "Sombrero",
+  "Newsboy", "Oni Mask", "ReBoot Trucker", "Sailor Hat", "Ski Mask", "Solana Cap", "Sombrero",
   "Tactical Helmet", "The King", "Undercut", "Valkyrie", "Vipers", "White Bandana", "ZAMN",],
 },
 {
@@ -213,7 +213,7 @@ const exclusionRules = [
   Head: ["Barbarian Helmet", "BK Hat", "Black Bandana", "Blonde", "Brunet", "Buccaneer Cap", "Bucket Hat", 
   "Chartist", "Clean Fade", "Cowboy Hat", "Dreadlocks", "First Knight Helm", "Forest Camo Helmet", "Gangster Hat",
   "Golden Mane", "Gun Top", "Hadoken", "Hipster Blue", "Hipster Red", "Kangol", "Legion Helmet", "Mage Hat", "Man Bun",
-  "Newsboy", "No Hat", "Oni Mask", "ReBoot Trucker", "Sailor Hat", "Ski Mask", "Solana Cap", "Sombrero",
+  "Newsboy", "Oni Mask", "ReBoot Trucker", "Sailor Hat", "Ski Mask", "Solana Cap", "Sombrero",
   "Tactical Helmet", "The King", "Undercut", "Valkyrie", "Vipers", "White Bandana", "ZAMN",],
 },
 {
@@ -221,7 +221,7 @@ const exclusionRules = [
   Head: ["Barbarian Helmet", "BK Hat", "Black Bandana", "Blonde", "Brunet", "Buccaneer Cap", "Bucket Hat", 
   "Chartist", "Clean Fade", "Cowboy Hat", "Dreadlocks", "First Knight Helm", "Forest Camo Helmet", "Gangster Hat",
   "Golden Mane", "Gun Top", "Hadoken", "Hipster Blue", "Hipster Red", "Kangol", "Legion Helmet", "Mage Hat", "Man Bun",
-  "Newsboy", "No Hat", "Oni Mask", "ReBoot Trucker", "Sailor Hat", "Ski Mask", "Solana Cap", "Sombrero",
+  "Newsboy", "Oni Mask", "ReBoot Trucker", "Sailor Hat", "Ski Mask", "Solana Cap", "Sombrero",
   "Tactical Helmet", "The King", "Undercut", "Valkyrie", "Vipers", "White Bandana", "ZAMN",],
 },
 {
@@ -229,7 +229,7 @@ const exclusionRules = [
   Head: ["Barbarian Helmet", "BK Hat", "Black Bandana", "Blonde", "Brunet", "Buccaneer Cap", "Bucket Hat", 
   "Chartist", "Clean Fade", "Cowboy Hat", "Dreadlocks", "First Knight Helm", "Forest Camo Helmet", "Gangster Hat",
   "Golden Mane", "Gun Top", "Hadoken", "Hipster Blue", "Hipster Red", "Kangol", "Legion Helmet", "Mage Hat", "Man Bun",
-  "Newsboy", "No Hat", "Oni Mask", "ReBoot Trucker", "Sailor Hat", "Ski Mask", "Solana Cap", "Sombrero",
+  "Newsboy", "Oni Mask", "ReBoot Trucker", "Sailor Hat", "Ski Mask", "Solana Cap", "Sombrero",
   "Tactical Helmet", "The King", "Undercut", "Valkyrie", "Vipers", "White Bandana", "ZAMN",],
 },
 ];
