@@ -53,15 +53,15 @@ const exclusionRules = [
     Clothing: ["Highborn Knight Armor"],
   },
   {
-    Background: ["Etheral Forest"],
+    Background: ["Ethereal Forest"],
     Clothing: ["Florida Man"],
   },
   {
-    Background: ["Etheral Forest"],
+    Background: ["Ethereal Forest"],
     Clothing: ["Toly Onesie"],
   },
   {
-    Background: ["Etheral Forest"],
+    Background: ["Ethereal Forest"],
     Clothing: ["Forest Camo ACU"],
   },
   {
@@ -75,6 +75,10 @@ const exclusionRules = [
   {
     Sky: ["Gloomy"],
     Clothing: ["Spartan ODU"],
+  },
+  {
+    Sky: ["Gloomy"],
+    Clothing: ["Gray Cowboy Hat"],
   },
   {
     Sky: ["Gloomy"],
@@ -119,10 +123,6 @@ const exclusionRules = [
   {
     Sky: ["Sandstorm"],
     Head: ["Cowboy Hat"],
-  },
-  {
-    Sky: ["Sandstorm"],
-    Species: ["Simian"],
   },
   {
     Sky: ["Purple Haze"],
@@ -175,6 +175,10 @@ const exclusionRules = [
   {
     Head: ["Ski Mask"],
     Expression: ["Undead Black"],
+  },
+  {
+    Head: ["Ski Mask"],
+    Expression: ["Orc Angel"],
   },
   {
     Clothing: ["Clayno Onesie"],
