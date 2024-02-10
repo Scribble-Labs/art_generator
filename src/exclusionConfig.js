@@ -33,7 +33,7 @@ const exclusionRules = [
       "Undead Devil", "Undead Happy", "Undead Stoned", "Undead Surprised", "Undead White"],
   },
   {
-    Species: ["Undead"],
+    Species: ["Undead Elf"],
     Expression: ["Dark Angel", "Dark Angry", "Dark Black", "Dark Devil", "Dark Happy", "Dark Stoned",
       "Dark Surprised", "Dark White", "Light Angel", "Light Angry", "Light Black", "Light Devil", "Light Happy",
       "Light Stoned", "Light Surprised", "Light White", "Orc Angel", "Orc Angry", "Orc Black", "Orc Devil",
