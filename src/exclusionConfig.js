@@ -78,7 +78,7 @@ const exclusionRules = [
   },
   {
     Sky: ["Gloomy"],
-    Clothing: ["Playmaker Onsie"],
+    Clothing: ["Playmaker Onesie"],
   },
   {
     Sky: ["Gloomy"],
@@ -98,7 +98,7 @@ const exclusionRules = [
   },
   {
     Sky: ["Sandstorm"],
-    Clothing: ["Clayno Onsie"],
+    Clothing: ["Clayno Onesie"],
   },
   {
     Sky: ["Sandstorm"],
@@ -177,7 +177,7 @@ const exclusionRules = [
     Expression: ["Undead Black"],
   },
   {
-    Clothing: ["Clayno Onsie"],
+    Clothing: ["Clayno Onesie"],
     Head: ["Barbarian Helmet", "BK Hat", "Black Bandana", "Blonde", "Brunet", "Buccaneer Cap", "Bucket Hat",
       "Chartist", "Clean Fade", "Cowboy Hat", "Dreadlocks", "First Knight Helm", "Forest Camo Helmet", "Gangster Hat",
       "Golden Mane", "Gun Top", "Hadoken", "Hipster Blue", "Hipster Red", "Kangol", "Legion Helmet", "Mage Hat", "Man Bun",
@@ -193,7 +193,7 @@ const exclusionRules = [
       "Tactical Helmet", "The King", "Undercut", "Valkyrie", "Vipers", "White Bandana", "ZAMN",],
   },
   {
-    Clothing: ["Playmaker Onsie"],
+    Clothing: ["Playmaker Onesie"],
     Head: ["Barbarian Helmet", "BK Hat", "Black Bandana", "Blonde", "Brunet", "Buccaneer Cap", "Bucket Hat",
       "Chartist", "Clean Fade", "Cowboy Hat", "Dreadlocks", "First Knight Helm", "Forest Camo Helmet", "Gangster Hat",
       "Golden Mane", "Gun Top", "Hadoken", "Hipster Blue", "Hipster Red", "Kangol", "Legion Helmet", "Mage Hat", "Man Bun",
@@ -217,7 +217,7 @@ const exclusionRules = [
       "Tactical Helmet", "The King", "Undercut", "Valkyrie", "Vipers", "White Bandana", "ZAMN",],
   },
   {
-    Clothing: ["SMB Onsie"],
+    Clothing: ["SMB Onseie"],
     Head: ["Barbarian Helmet", "BK Hat", "Black Bandana", "Blonde", "Brunet", "Buccaneer Cap", "Bucket Hat",
       "Chartist", "Clean Fade", "Cowboy Hat", "Dreadlocks", "First Knight Helm", "Forest Camo Helmet", "Gangster Hat",
       "Golden Mane", "Gun Top", "Hadoken", "Hipster Blue", "Hipster Red", "Kangol", "Legion Helmet", "Mage Hat", "Man Bun",
