@@ -217,7 +217,7 @@ const exclusionRules = [
       "Tactical Helmet", "The King", "Undercut", "Valkyrie", "Vipers", "White Bandana", "ZAMN",],
   },
   {
-    Clothing: ["SMB Onseie"],
+    Clothing: ["SMB Onesie"],
     Head: ["Barbarian Helmet", "BK Hat", "Black Bandana", "Blonde", "Brunet", "Buccaneer Cap", "Bucket Hat",
       "Chartist", "Clean Fade", "Cowboy Hat", "Dreadlocks", "First Knight Helm", "Forest Camo Helmet", "Gangster Hat",
       "Golden Mane", "Gun Top", "Hadoken", "Hipster Blue", "Hipster Red", "Kangol", "Legion Helmet", "Mage Hat", "Man Bun",
