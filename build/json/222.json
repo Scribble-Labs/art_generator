@@ -1,0 +1,50 @@
+{
+  "name": "n00bs #222",
+  "symbol": "n00b",
+  "description": "n00bs bring the iconic heroes and lore from ReBoot Worlds into diversely curated, pixelated PFPs.",
+  "seller_fee_basis_points": 600,
+  "image": "222.png",
+  "external_url": "https://rebootworlds.com/",
+  "edition": 222,
+  "attributes": [
+    {
+      "trait_type": "Sky",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ReBoot City"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Dark Human"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Dark White"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Highborn Knight Armor"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Undercut"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "222.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4wFD3TewF28RjZNpVk6T1pXWufLpTUMnAJN2ZXwKC8uf",
+        "share": 100
+      }
+    ]
+  }
+}

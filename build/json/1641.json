@@ -1,0 +1,50 @@
+{
+  "name": "n00bs #1641",
+  "symbol": "n00b",
+  "description": "n00bs bring the iconic heroes and lore from ReBoot Worlds into diversely curated, pixelated PFPs.",
+  "seller_fee_basis_points": 600,
+  "image": "1641.png",
+  "external_url": "https://rebootworlds.com/",
+  "edition": 1641,
+  "attributes": [
+    {
+      "trait_type": "Sky",
+      "value": "Florida Orange"
+    },
+    {
+      "trait_type": "Background",
+      "value": "ReBoot Theme Park"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Simian"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Simian White"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Royal Officer"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Solana Cap"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1641.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4wFD3TewF28RjZNpVk6T1pXWufLpTUMnAJN2ZXwKC8uf",
+        "share": 100
+      }
+    ]
+  }
+}

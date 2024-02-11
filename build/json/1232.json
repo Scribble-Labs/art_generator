@@ -1,0 +1,50 @@
+{
+  "name": "n00bs #1232",
+  "symbol": "n00b",
+  "description": "n00bs bring the iconic heroes and lore from ReBoot Worlds into diversely curated, pixelated PFPs.",
+  "seller_fee_basis_points": 600,
+  "image": "1232.png",
+  "external_url": "https://rebootworlds.com/",
+  "edition": 1232,
+  "attributes": [
+    {
+      "trait_type": "Sky",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "None"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Light Human"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Light Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Critters Jersey"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden Mane"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1232.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4wFD3TewF28RjZNpVk6T1pXWufLpTUMnAJN2ZXwKC8uf",
+        "share": 100
+      }
+    ]
+  }
+}

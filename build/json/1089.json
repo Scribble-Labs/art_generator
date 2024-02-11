@@ -1,0 +1,50 @@
+{
+  "name": "n00bs #1089",
+  "symbol": "n00b",
+  "description": "n00bs bring the iconic heroes and lore from ReBoot Worlds into diversely curated, pixelated PFPs.",
+  "seller_fee_basis_points": 600,
+  "image": "1089.png",
+  "external_url": "https://rebootworlds.com/",
+  "edition": 1089,
+  "attributes": [
+    {
+      "trait_type": "Sky",
+      "value": "Florida Orange"
+    },
+    {
+      "trait_type": "Background",
+      "value": "None"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Simian"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Simian White"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Buccaneer Coat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Sailor Hat"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1089.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4wFD3TewF28RjZNpVk6T1pXWufLpTUMnAJN2ZXwKC8uf",
+        "share": 100
+      }
+    ]
+  }
+}

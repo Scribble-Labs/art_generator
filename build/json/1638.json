@@ -1,0 +1,50 @@
+{
+  "name": "n00bs #1638",
+  "symbol": "n00b",
+  "description": "n00bs bring the iconic heroes and lore from ReBoot Worlds into diversely curated, pixelated PFPs.",
+  "seller_fee_basis_points": 600,
+  "image": "1638.png",
+  "external_url": "https://rebootworlds.com/",
+  "edition": 1638,
+  "attributes": [
+    {
+      "trait_type": "Sky",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "None"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Undead Elf"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Undead Surprised"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "ReBoot Jockey Jacket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy Hat"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1638.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4wFD3TewF28RjZNpVk6T1pXWufLpTUMnAJN2ZXwKC8uf",
+        "share": 100
+      }
+    ]
+  }
+}

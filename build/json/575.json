@@ -1,0 +1,50 @@
+{
+  "name": "n00bs #575",
+  "symbol": "n00b",
+  "description": "n00bs bring the iconic heroes and lore from ReBoot Worlds into diversely curated, pixelated PFPs.",
+  "seller_fee_basis_points": 600,
+  "image": "575.png",
+  "external_url": "https://rebootworlds.com/",
+  "edition": 575,
+  "attributes": [
+    {
+      "trait_type": "Sky",
+      "value": "Purple Haze"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Necrothorns Abyss"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Simian"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Simian Happy"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Buccaneer Coat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hipster Blue"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "575.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4wFD3TewF28RjZNpVk6T1pXWufLpTUMnAJN2ZXwKC8uf",
+        "share": 100
+      }
+    ]
+  }
+}
