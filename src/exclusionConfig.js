@@ -41,6 +41,10 @@ const exclusionRules = [
       "Simian Devil", "Simian Happy", "Simian Stoned", "Simian Surprised", "Simian White"],
   },
   {
+    Species: ["Orc"],
+    Background: ["Ethereal Forest"],
+  },
+  {
     Clothing: ["Heart"],
     "Body Accent": ["Beer Rings", "Wine Stains"],
   },
@@ -53,15 +57,15 @@ const exclusionRules = [
     Clothing: ["Highborn Knight Armor"],
   },
   {
-    Background: ["Etheral Forest"],
+    Background: ["Ethereal Forest"],
     Clothing: ["Florida Man"],
   },
   {
-    Background: ["Etheral Forest"],
+    Background: ["Ethereal Forest"],
     Clothing: ["Toly Onesie"],
   },
   {
-    Background: ["Etheral Forest"],
+    Background: ["Ethereal Forest"],
     Clothing: ["Forest Camo ACU"],
   },
   {
@@ -75,6 +79,10 @@ const exclusionRules = [
   {
     Sky: ["Gloomy"],
     Clothing: ["Spartan ODU"],
+  },
+  {
+    Sky: ["Gloomy"],
+    Head: ["Gray Cowboy Hat"],
   },
   {
     Sky: ["Gloomy"],
@@ -121,10 +129,6 @@ const exclusionRules = [
     Head: ["Cowboy Hat"],
   },
   {
-    Sky: ["Sandstorm"],
-    Species: ["Simian"],
-  },
-  {
     Sky: ["Purple Haze"],
     Clothing: ["Fosace Robe"],
   },
@@ -154,7 +158,7 @@ const exclusionRules = [
   },
   {
     Head: ["Ski Mask"],
-    Expression: ["Dark Stoner"],
+    Expression: ["Dark Stoned"],
   },
   {
     Head: ["Ski Mask"],
@@ -162,7 +166,7 @@ const exclusionRules = [
   },
   {
     Head: ["Ski Mask"],
-    Expression: ["Light Stoner"],
+    Expression: ["Light Stoned"],
   },
   {
     Head: ["Ski Mask"],
@@ -177,12 +181,20 @@ const exclusionRules = [
     Expression: ["Undead Black"],
   },
   {
+    Head: ["Ski Mask"],
+    Expression: ["Orc Angel"],
+  },
+  {
+    Head: ["Forest Camo Helmet"],
+    Clothing: ["Highborn Knight Armor"],
+  },
+  {
     Clothing: ["Clayno Onesie"],
     Head: ["Barbarian Helmet", "BK Hat", "Black Bandana", "Blonde", "Brunet", "Buccaneer Cap", "Bucket Hat",
       "Chartist", "Clean Fade", "Cowboy Hat", "Dreadlocks", "First Knight Helm", "Forest Camo Helmet", "Gangster Hat",
       "Golden Mane", "Gun Top", "Hadoken", "Hipster Blue", "Hipster Red", "Kangol", "Legion Helmet", "Mage Hat", "Man Bun",
       "Newsboy", "Oni Mask", "ReBoot Trucker", "Sailor Hat", "Ski Mask", "Solana Cap", "Sombrero",
-      "Tactical Helmet", "The King", "Undercut", "Valkyrie", "Vipers", "White Bandana", "ZAMN",],
+      "Tactical Helmet", "The King", "Undercut", "Valkyrie", "Vipers", "White Bandana", "ZAMN", "Gray Cowboy Hat",],
   },
   {
     Clothing: ["Necromancer"],
@@ -190,7 +202,7 @@ const exclusionRules = [
       "Chartist", "Clean Fade", "Cowboy Hat", "Dreadlocks", "First Knight Helm", "Forest Camo Helmet", "Gangster Hat",
       "Golden Mane", "Gun Top", "Hadoken", "Hipster Blue", "Hipster Red", "Kangol", "Legion Helmet", "Mage Hat", "Man Bun",
       "Newsboy", "Oni Mask", "ReBoot Trucker", "Sailor Hat", "Ski Mask", "Solana Cap", "Sombrero",
-      "Tactical Helmet", "The King", "Undercut", "Valkyrie", "Vipers", "White Bandana", "ZAMN",],
+      "Tactical Helmet", "The King", "Undercut", "Valkyrie", "Vipers", "White Bandana", "ZAMN", "Gray Cowboy Hat",],
   },
   {
     Clothing: ["Playmakers Onesie"],
@@ -198,7 +210,7 @@ const exclusionRules = [
       "Chartist", "Clean Fade", "Cowboy Hat", "Dreadlocks", "First Knight Helm", "Forest Camo Helmet", "Gangster Hat",
       "Golden Mane", "Gun Top", "Hadoken", "Hipster Blue", "Hipster Red", "Kangol", "Legion Helmet", "Mage Hat", "Man Bun",
       "Newsboy", "Oni Mask", "ReBoot Trucker", "Sailor Hat", "Ski Mask", "Solana Cap", "Sombrero",
-      "Tactical Helmet", "The King", "Undercut", "Valkyrie", "Vipers", "White Bandana", "ZAMN",],
+      "Tactical Helmet", "The King", "Undercut", "Valkyrie", "Vipers", "White Bandana", "ZAMN", "Gray Cowboy Hat",],
   },
   {
     Clothing: ["ReBoot Hoodie"],
@@ -206,7 +218,7 @@ const exclusionRules = [
       "Chartist", "Clean Fade", "Cowboy Hat", "Dreadlocks", "First Knight Helm", "Forest Camo Helmet", "Gangster Hat",
       "Golden Mane", "Gun Top", "Hadoken", "Hipster Blue", "Hipster Red", "Kangol", "Legion Helmet", "Mage Hat", "Man Bun",
       "Newsboy", "Oni Mask", "ReBoot Trucker", "Sailor Hat", "Ski Mask", "Solana Cap", "Sombrero",
-      "Tactical Helmet", "The King", "Undercut", "Valkyrie", "Vipers", "White Bandana", "ZAMN",],
+      "Tactical Helmet", "The King", "Undercut", "Valkyrie", "Vipers", "White Bandana", "ZAMN", "Gray Cowboy Hat",],
   },
   {
     Clothing: ["Rogue Archer"],
@@ -214,7 +226,7 @@ const exclusionRules = [
       "Chartist", "Clean Fade", "Cowboy Hat", "Dreadlocks", "First Knight Helm", "Forest Camo Helmet", "Gangster Hat",
       "Golden Mane", "Gun Top", "Hadoken", "Hipster Blue", "Hipster Red", "Kangol", "Legion Helmet", "Mage Hat", "Man Bun",
       "Newsboy", "Oni Mask", "ReBoot Trucker", "Sailor Hat", "Ski Mask", "Solana Cap", "Sombrero",
-      "Tactical Helmet", "The King", "Undercut", "Valkyrie", "Vipers", "White Bandana", "ZAMN",],
+      "Tactical Helmet", "The King", "Undercut", "Valkyrie", "Vipers", "White Bandana", "ZAMN", "Gray Cowboy Hat",],
   },
   {
     Clothing: ["SMB Onesie"],
@@ -222,7 +234,7 @@ const exclusionRules = [
       "Chartist", "Clean Fade", "Cowboy Hat", "Dreadlocks", "First Knight Helm", "Forest Camo Helmet", "Gangster Hat",
       "Golden Mane", "Gun Top", "Hadoken", "Hipster Blue", "Hipster Red", "Kangol", "Legion Helmet", "Mage Hat", "Man Bun",
       "Newsboy", "Oni Mask", "ReBoot Trucker", "Sailor Hat", "Ski Mask", "Solana Cap", "Sombrero",
-      "Tactical Helmet", "The King", "Undercut", "Valkyrie", "Vipers", "White Bandana", "ZAMN",],
+      "Tactical Helmet", "The King", "Undercut", "Valkyrie", "Vipers", "White Bandana", "ZAMN", "Gray Cowboy Hat",],
   },
   {
     Clothing: ["Toly Onesie"],
@@ -230,7 +242,18 @@ const exclusionRules = [
       "Chartist", "Clean Fade", "Cowboy Hat", "Dreadlocks", "First Knight Helm", "Forest Camo Helmet", "Gangster Hat",
       "Golden Mane", "Gun Top", "Hadoken", "Hipster Blue", "Hipster Red", "Kangol", "Legion Helmet", "Mage Hat", "Man Bun",
       "Newsboy", "Oni Mask", "ReBoot Trucker", "Sailor Hat", "Ski Mask", "Solana Cap", "Sombrero",
-      "Tactical Helmet", "The King", "Undercut", "Valkyrie", "Vipers", "White Bandana", "ZAMN",],
+      "Tactical Helmet", "The King", "Undercut", "Valkyrie", "Vipers", "White Bandana", "ZAMN", "Gray Cowboy Hat",],
+  },
+  {
+    Head: ["No Hat"],
+    Clothing: ["Artist Overalls", "Barbarian Armor", "BK Shirt", "Black Suit", "Brown Suit",
+     "Buccaneer Coat", "Bulletproof Vest", "Cloud", "Critters Jersey", "Cult Shirt",
+      "Cyberpunk Jacket", "Denim Jacket", "Desert Camo ACU", "First Knight", "Florida Man",
+      "Forest Camo ACU", "Fosace Robe", "Goron Tunic", "Highborn Knight Armor", "Hypebeast Shirt",
+      "Legion Breastplate", "Mage Cloak", "Mando Armor", "MF Jersey", "Navy Suit", "Necromancer",
+      "Nuke Dukem", "ReBoot Aviator", "ReBoot Hoodie", "ReBoot Jockey Jacket", "Rogue Archer",
+      "Royal Officer", "Sailor", "Samurai", "Solana Jersey", "Spartan ODU", "Steampunk Armor",
+      "Trench Coat", "Tribal Poncho", "Wan Obi Cloak",]
   },
 ];
 
