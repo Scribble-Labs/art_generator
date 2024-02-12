@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
-      "value": "Apocalyptic City"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Devil"
+      "value": "Orc Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Buccaneer Coat"
+      "value": "Trench Coat"
     },
     {
       "trait_type": "Head",
-      "value": "Forest Camo Helmet"
+      "value": "Buccaneer Cap"
     }
   ],
   "properties": {

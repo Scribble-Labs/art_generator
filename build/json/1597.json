@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "ReBoot Theme Park"
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Stoned"
+      "value": "Simian Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Florida Man"
+      "value": "Critters Jersey"
     },
     {
       "trait_type": "Head",
-      "value": "Hadoken"
+      "value": "Tactical Helmet"
     }
   ],
   "properties": {

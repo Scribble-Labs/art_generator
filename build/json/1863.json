@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Surprised"
+      "value": "Undead Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "Denim Jacket"
+      "value": "Cult Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "Hipster Blue"
+      "value": "Hipster Red"
     }
   ],
   "properties": {

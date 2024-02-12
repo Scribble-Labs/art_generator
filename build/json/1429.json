@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
-      "value": "Mushroom Kingdom"
+      "value": "None"
     },
     {
       "trait_type": "Species",
@@ -25,11 +25,11 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Tribal Poncho"
+      "value": "Forest Camo ACU"
     },
     {
       "trait_type": "Head",
-      "value": "Sombrero"
+      "value": "Brunet"
     }
   ],
   "properties": {

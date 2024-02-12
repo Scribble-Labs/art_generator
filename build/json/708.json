@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Stoned"
+      "value": "Light Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cloud"
+      "value": "Nuke Dukem"
     },
     {
       "trait_type": "Head",
-      "value": "Clean Fade"
+      "value": "Black Bandana"
     }
   ],
   "properties": {

@@ -13,23 +13,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot Theme Park"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Black"
+      "value": "Undead Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cyberpunk Jacket"
+      "value": "Sailor"
     },
     {
       "trait_type": "Head",
-      "value": "Mage Hat"
+      "value": "Barbarian Helmet"
     }
   ],
   "properties": {

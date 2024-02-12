@@ -13,23 +13,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "Mushroom Kingdom"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Devil"
+      "value": "Light Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Legion Breastplate"
+      "value": "Bulletproof Vest"
     },
     {
       "trait_type": "Head",
-      "value": "Undercut"
+      "value": "Man Bun"
     }
   ],
   "properties": {

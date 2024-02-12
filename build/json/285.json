@@ -13,7 +13,7 @@
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Ethereal Forest"
     },
     {
       "trait_type": "Species",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Light Black"
+      "value": "Light Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Samurai"
+      "value": "ReBoot Jockey Jacket"
     },
     {
       "trait_type": "Head",
-      "value": "Hipster Red"
+      "value": "Newsboy"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Doom"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Angry"
+      "value": "Orc Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "ReBoot Jockey Jacket"
+      "value": "MF Jersey"
     },
     {
       "trait_type": "Head",
-      "value": "Blonde"
+      "value": "ZAMN"
     }
   ],
   "properties": {

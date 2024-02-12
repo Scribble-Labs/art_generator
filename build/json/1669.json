@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Angry"
+      "value": "Dark White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cloud"
+      "value": "Mando Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Oni Mask"
+      "value": "Gray Cowboy Hat"
     }
   ],
   "properties": {

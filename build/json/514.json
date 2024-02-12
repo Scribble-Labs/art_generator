@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Happy"
+      "value": "Orc Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Samurai"
+      "value": "First Knight"
     },
     {
       "trait_type": "Head",
-      "value": "Black Bandana"
+      "value": "Kangol"
     }
   ],
   "properties": {

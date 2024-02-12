@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Doom"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -17,11 +17,11 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Devil"
+      "value": "Light Happy"
     },
     {
       "trait_type": "Clothing",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "Head",
-      "value": "Golden Mane"
+      "value": "Kangol"
     }
   ],
   "properties": {

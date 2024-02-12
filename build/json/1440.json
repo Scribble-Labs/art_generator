@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Light White"
+      "value": "Simian Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Samurai"
+      "value": "Denim Jacket"
     },
     {
       "trait_type": "Head",
-      "value": "Legion Helmet"
+      "value": "Golden Mane"
     }
   ],
   "properties": {

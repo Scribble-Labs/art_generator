@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Angry"
+      "value": "Light White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Steampunk Armor"
+      "value": "Trench Coat"
     },
     {
       "trait_type": "Head",
-      "value": "Black Bandana"
+      "value": "First Knight Helm"
     }
   ],
   "properties": {

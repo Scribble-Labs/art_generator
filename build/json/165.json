@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Doom"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Angry"
+      "value": "Light Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Critters Jersey"
+      "value": "Fosace Robe"
     },
     {
       "trait_type": "Head",
-      "value": "Sombrero"
+      "value": "Gun Top"
     }
   ],
   "properties": {

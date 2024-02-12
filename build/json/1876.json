@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Stoned"
+      "value": "Dark Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Forest Camo ACU"
+      "value": "Black Suit"
     },
     {
       "trait_type": "Head",
-      "value": "ReBoot Trucker"
+      "value": "Gangster Hat"
     }
   ],
   "properties": {

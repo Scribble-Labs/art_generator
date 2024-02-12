@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Mushroom Kingdom"
     },
     {
       "trait_type": "Species",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Angry"
+      "value": "Simian Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "Black Suit"
+      "value": "Hypebeast Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "Ski Mask"
+      "value": "Barbarian Helmet"
     }
   ],
   "properties": {

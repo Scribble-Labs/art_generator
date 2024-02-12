@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Apocalyptic City"
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Stoned"
+      "value": "Orc Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Fosace Robe"
+      "value": "BK Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "Kangol"
+      "value": "Buccaneer Cap"
     }
   ],
   "properties": {

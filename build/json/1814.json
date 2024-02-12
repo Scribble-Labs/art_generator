@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Surprised"
+      "value": "Orc Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Forest Camo ACU"
+      "value": "Cloud"
     },
     {
       "trait_type": "Head",
-      "value": "Vipers"
+      "value": "Buccaneer Cap"
     }
   ],
   "properties": {

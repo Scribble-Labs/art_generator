@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Angry"
+      "value": "Orc Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Forest Camo ACU"
+      "value": "Spartan ODU"
     },
     {
       "trait_type": "Head",
-      "value": "Ski Mask"
+      "value": "Dreadlocks"
     }
   ],
   "properties": {

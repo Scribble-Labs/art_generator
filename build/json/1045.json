@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Apocalyptic City"
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Stoned"
+      "value": "Simian Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cloud"
+      "value": "Bulletproof Vest"
     },
     {
       "trait_type": "Head",
-      "value": "Mage Hat"
+      "value": "Barbarian Helmet"
     }
   ],
   "properties": {

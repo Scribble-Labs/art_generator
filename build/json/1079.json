@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian White"
+      "value": "Orc White"
     },
     {
       "trait_type": "Clothing",
-      "value": "First Knight"
+      "value": "Florida Man"
     },
     {
       "trait_type": "Head",
-      "value": "Solana Cap"
+      "value": "Dreadlocks"
     }
   ],
   "properties": {

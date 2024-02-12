@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
-      "value": "Mushroom Kingdom"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Surprised"
+      "value": "Orc Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Critters Jersey"
+      "value": "Cyberpunk Jacket"
     },
     {
       "trait_type": "Head",
-      "value": "Undercut"
+      "value": "Gray Cowboy Hat"
     }
   ],
   "properties": {

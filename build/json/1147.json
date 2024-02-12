@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Stoned"
+      "value": "Orc Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Denim Jacket"
+      "value": "Barbarian Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Hipster Blue"
+      "value": "Undercut"
     }
   ],
   "properties": {

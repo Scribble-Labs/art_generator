@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot Keep"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Angry"
+      "value": "Simian Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Trench Coat"
+      "value": "Cyberpunk Jacket"
     },
     {
       "trait_type": "Head",
-      "value": "Buccaneer Cap"
+      "value": "Kangol"
     }
   ],
   "properties": {

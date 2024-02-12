@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Angry"
+      "value": "Dark Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Solana Jersey"
+      "value": "Royal Officer"
     },
     {
       "trait_type": "Head",
-      "value": "Hadoken"
+      "value": "Sombrero"
     }
   ],
   "properties": {

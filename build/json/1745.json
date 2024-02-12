@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Happy"
+      "value": "Orc Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Nuke Dukem"
+      "value": "Hypebeast Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "Man Bun"
+      "value": "Gangster Hat"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Happy"
+      "value": "Light Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Nuke Dukem"
+      "value": "Royal Officer"
     },
     {
       "trait_type": "Head",
-      "value": "Barbarian Helmet"
+      "value": "Brunet"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Happy"
+      "value": "Simian White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Royal Officer"
+      "value": "Cloud"
     },
     {
       "trait_type": "Head",
-      "value": "Barbarian Helmet"
+      "value": "Gray Cowboy Hat"
     }
   ],
   "properties": {

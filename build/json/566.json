@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Necrothorns Abyss"
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark White"
+      "value": "Orc White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mage Cloak"
+      "value": "ReBoot Aviator"
     },
     {
       "trait_type": "Head",
-      "value": "Golden Mane"
+      "value": "White Bandana"
     }
   ],
   "properties": {

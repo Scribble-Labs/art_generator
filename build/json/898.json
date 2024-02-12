@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Stoned"
+      "value": "Dark Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Spartan ODU"
+      "value": "Nuke Dukem"
     },
     {
       "trait_type": "Head",
-      "value": "Ski Mask"
+      "value": "Oni Mask"
     }
   ],
   "properties": {

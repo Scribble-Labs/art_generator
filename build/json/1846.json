@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Light White"
+      "value": "Orc Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Highborn Knight Armor"
+      "value": "Barbarian Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Blonde"
+      "value": "Clean Fade"
     }
   ],
   "properties": {

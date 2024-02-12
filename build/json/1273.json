@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Ethereal Forest"
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Stoned"
+      "value": "Simian Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cloud"
+      "value": "Bulletproof Vest"
     },
     {
       "trait_type": "Head",
-      "value": "Mage Hat"
+      "value": "Brunet"
     }
   ],
   "properties": {

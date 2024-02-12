@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Surprised"
+      "value": "Light Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Steampunk Armor"
+      "value": "Wan Obi Cloak"
     },
     {
       "trait_type": "Head",
-      "value": "White Bandana"
+      "value": "Gangster Hat"
     }
   ],
   "properties": {

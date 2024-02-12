@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Starry Night"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Surprised"
+      "value": "Simian Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "ReBoot Jockey Jacket"
+      "value": "Legion Breastplate"
     },
     {
       "trait_type": "Head",
-      "value": "First Knight Helm"
+      "value": "Vipers"
     }
   ],
   "properties": {

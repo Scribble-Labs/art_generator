@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Stoned"
+      "value": "Orc Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "BK Shirt"
+      "value": "Desert Camo ACU"
     },
     {
       "trait_type": "Head",
-      "value": "Man Bun"
+      "value": "Solana Cap"
     }
   ],
   "properties": {

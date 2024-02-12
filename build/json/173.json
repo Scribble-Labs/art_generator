@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Stoned"
+      "value": "Light Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Hypebeast Shirt"
+      "value": "Forest Camo ACU"
     },
     {
       "trait_type": "Head",
-      "value": "Ski Mask"
+      "value": "Solana Cap"
     }
   ],
   "properties": {

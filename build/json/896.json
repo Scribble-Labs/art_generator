@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Apocalyptic City"
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead White"
+      "value": "Light Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Desert Camo ACU"
+      "value": "Spartan ODU"
     },
     {
       "trait_type": "Head",
-      "value": "Bucket Hat"
+      "value": "Gangster Hat"
     }
   ],
   "properties": {

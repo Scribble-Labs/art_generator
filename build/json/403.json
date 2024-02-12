@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
-      "value": "Necrothorns Abyss"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Stoned"
+      "value": "Simian Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Samurai"
+      "value": "Navy Suit"
     },
     {
       "trait_type": "Head",
-      "value": "Tactical Helmet"
+      "value": "Newsboy"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Black"
+      "value": "Dark Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Wan Obi Cloak"
+      "value": "Trench Coat"
     },
     {
       "trait_type": "Head",
-      "value": "Tactical Helmet"
+      "value": "Clean Fade"
     }
   ],
   "properties": {

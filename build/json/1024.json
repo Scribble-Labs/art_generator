@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc White"
+      "value": "Undead Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Nuke Dukem"
+      "value": "Cult Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "ReBoot Trucker"
+      "value": "First Knight Helm"
     }
   ],
   "properties": {

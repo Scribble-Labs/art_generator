@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Doom"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -17,15 +17,15 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Surprised"
+      "value": "Orc Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "First Knight"
+      "value": "Mando Armor"
     },
     {
       "trait_type": "Head",

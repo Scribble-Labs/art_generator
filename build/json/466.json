@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Black"
+      "value": "Orc Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Legion Breastplate"
+      "value": "First Knight"
     },
     {
       "trait_type": "Head",
-      "value": "Legion Helmet"
+      "value": "ReBoot Trucker"
     }
   ],
   "properties": {

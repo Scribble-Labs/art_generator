@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Doom"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "ReBoot Keep"
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Angry"
+      "value": "Simian Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Hypebeast Shirt"
+      "value": "Cloud"
     },
     {
       "trait_type": "Head",
-      "value": "Blonde"
+      "value": "The King"
     }
   ],
   "properties": {

@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Apocalyptic City"
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Angel"
+      "value": "Orc Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Forest Camo ACU"
+      "value": "Critters Jersey"
     },
     {
       "trait_type": "Head",
-      "value": "Forest Camo Helmet"
+      "value": "Cowboy Hat"
     }
   ],
   "properties": {

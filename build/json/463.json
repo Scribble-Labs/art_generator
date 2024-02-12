@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Black"
+      "value": "Orc Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Legion Breastplate"
+      "value": "Trench Coat"
     },
     {
       "trait_type": "Head",
-      "value": "Valkyrie"
+      "value": "Brunet"
     }
   ],
   "properties": {

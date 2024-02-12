@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Black"
+      "value": "Light Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "BK Shirt"
+      "value": "Royal Officer"
     },
     {
       "trait_type": "Head",
-      "value": "Forest Camo Helmet"
+      "value": "Buccaneer Cap"
     }
   ],
   "properties": {

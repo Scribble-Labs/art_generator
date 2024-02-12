@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Happy"
+      "value": "Light Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Forest Camo ACU"
+      "value": "ReBoot Aviator"
     },
     {
       "trait_type": "Head",
-      "value": "Buccaneer Cap"
+      "value": "Kangol"
     }
   ],
   "properties": {

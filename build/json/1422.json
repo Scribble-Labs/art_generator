@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot City"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Black"
+      "value": "Orc Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "First Knight"
+      "value": "Brown Suit"
     },
     {
       "trait_type": "Head",
-      "value": "Cowboy Hat"
+      "value": "Newsboy"
     }
   ],
   "properties": {

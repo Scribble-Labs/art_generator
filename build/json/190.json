@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Ethereal Forest"
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian White"
+      "value": "Dark Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cloud"
+      "value": "Buccaneer Coat"
     },
     {
       "trait_type": "Head",
-      "value": "ZAMN"
+      "value": "Gun Top"
     }
   ],
   "properties": {

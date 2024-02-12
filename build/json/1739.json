@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Happy"
+      "value": "Simian Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Spartan ODU"
+      "value": "Desert Camo ACU"
     },
     {
       "trait_type": "Head",
-      "value": "ReBoot Trucker"
+      "value": "Bucket Hat"
     }
   ],
   "properties": {

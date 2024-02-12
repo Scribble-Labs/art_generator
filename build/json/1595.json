@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Angry"
+      "value": "Orc White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mage Cloak"
+      "value": "ReBoot Jockey Jacket"
     },
     {
       "trait_type": "Head",
-      "value": "Forest Camo Helmet"
+      "value": "ReBoot Trucker"
     }
   ],
   "properties": {

@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Apocalyptic City"
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Stoned"
+      "value": "Dark White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Spartan ODU"
+      "value": "Barbarian Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Vipers"
+      "value": "Cowboy Hat"
     }
   ],
   "properties": {

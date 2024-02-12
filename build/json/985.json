@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Stoned"
+      "value": "Simian Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Buccaneer Coat"
+      "value": "Forest Camo ACU"
     },
     {
       "trait_type": "Head",
-      "value": "Chartist"
+      "value": "Gray Cowboy Hat"
     }
   ],
   "properties": {

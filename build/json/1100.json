@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Surprised"
+      "value": "Dark Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Hypebeast Shirt"
+      "value": "Florida Man"
     },
     {
       "trait_type": "Head",
-      "value": "Solana Cap"
+      "value": "ReBoot Trucker"
     }
   ],
   "properties": {

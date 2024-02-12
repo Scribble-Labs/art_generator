@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Happy"
+      "value": "Dark White"
     },
     {
       "trait_type": "Clothing",
-      "value": "ReBoot Aviator"
+      "value": "Samurai"
     },
     {
       "trait_type": "Head",
-      "value": "Vipers"
+      "value": "Gangster Hat"
     }
   ],
   "properties": {

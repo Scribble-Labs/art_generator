@@ -147,6 +147,7 @@ dist
 # Ignore
 yarn.lock
 package-lock.json
-
+build
 build.zip
-
+build/images
+buld/JSON

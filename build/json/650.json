@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
-      "value": "Apocalyptic City"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Happy"
+      "value": "Undead Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Tribal Poncho"
+      "value": "Critters Jersey"
     },
     {
       "trait_type": "Head",
-      "value": "Tactical Helmet"
+      "value": "Solana Cap"
     }
   ],
   "properties": {

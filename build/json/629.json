@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Happy"
+      "value": "Simian Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Artist Overalls"
+      "value": "Hypebeast Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "Sombrero"
+      "value": "Gray Cowboy Hat"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Angry"
+      "value": "Undead Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "ReBoot Aviator"
+      "value": "Spartan ODU"
     },
     {
       "trait_type": "Head",
-      "value": "Bucket Hat"
+      "value": "Undercut"
     }
   ],
   "properties": {

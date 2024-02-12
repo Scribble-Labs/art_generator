@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Ethereal Forest"
     },
     {
       "trait_type": "Species",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Light Happy"
+      "value": "Light White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cloud"
+      "value": "Sailor"
     },
     {
       "trait_type": "Head",
-      "value": "Hadoken"
+      "value": "Undercut"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Doom"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Stoned"
+      "value": "Undead Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Tribal Poncho"
+      "value": "Sailor"
     },
     {
       "trait_type": "Head",
-      "value": "Vipers"
+      "value": "Buccaneer Cap"
     }
   ],
   "properties": {

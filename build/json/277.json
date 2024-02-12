@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Necrothorns Abyss"
     },
     {
       "trait_type": "Species",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Surprised"
+      "value": "Simian Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Samurai"
+      "value": "Artist Overalls"
     },
     {
       "trait_type": "Head",
-      "value": "Mage Hat"
+      "value": "White Bandana"
     }
   ],
   "properties": {

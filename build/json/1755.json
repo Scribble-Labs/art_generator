@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Starry Night"
     },
     {
       "trait_type": "Background",
-      "value": "Apocalyptic City"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Angel"
+      "value": "Light Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "ReBoot Aviator"
+      "value": "Barbarian Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Gangster Hat"
+      "value": "Solana Cap"
     }
   ],
   "properties": {

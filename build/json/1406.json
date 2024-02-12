@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
-      "value": "Necrothorns Abyss"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Angry"
+      "value": "Orc Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "Steampunk Armor"
+      "value": "Navy Suit"
     },
     {
       "trait_type": "Head",
-      "value": "First Knight Helm"
+      "value": "Gray Cowboy Hat"
     }
   ],
   "properties": {

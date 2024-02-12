@@ -13,7 +13,7 @@
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot Theme Park"
+      "value": "None"
     },
     {
       "trait_type": "Species",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Angry"
+      "value": "Orc Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Steampunk Armor"
+      "value": "Black Suit"
     },
     {
       "trait_type": "Head",
-      "value": "First Knight Helm"
+      "value": "Black Bandana"
     }
   ],
   "properties": {

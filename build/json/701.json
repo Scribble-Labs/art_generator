@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Surprised"
+      "value": "Orc Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Sailor"
+      "value": "Florida Man"
     },
     {
       "trait_type": "Head",
-      "value": "White Bandana"
+      "value": "Man Bun"
     }
   ],
   "properties": {

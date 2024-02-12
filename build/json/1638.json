@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Surprised"
+      "value": "Dark Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "ReBoot Jockey Jacket"
+      "value": "Artist Overalls"
     },
     {
       "trait_type": "Head",
-      "value": "Cowboy Hat"
+      "value": "Hadoken"
     }
   ],
   "properties": {

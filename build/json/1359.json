@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot Keep"
+      "value": "Necrothorns Abyss"
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Surprised"
+      "value": "Light Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Steampunk Armor"
+      "value": "First Knight"
     },
     {
       "trait_type": "Head",
-      "value": "No Hat"
+      "value": "Gun Top"
     }
   ],
   "properties": {

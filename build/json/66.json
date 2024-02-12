@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Mushroom Kingdom"
     },
     {
       "trait_type": "Species",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Stoned"
+      "value": "Orc Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "ReBoot Aviator"
+      "value": "Artist Overalls"
     },
     {
       "trait_type": "Head",
-      "value": "Dreadlocks"
+      "value": "BK Hat"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -25,11 +25,11 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Buccaneer Coat"
+      "value": "Barbarian Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Mage Hat"
+      "value": "First Knight Helm"
     }
   ],
   "properties": {

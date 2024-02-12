@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Devil"
+      "value": "Simian Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Highborn Knight Armor"
+      "value": "Forest Camo ACU"
     },
     {
       "trait_type": "Head",
-      "value": "Dreadlocks"
+      "value": "First Knight Helm"
     }
   ],
   "properties": {

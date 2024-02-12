@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Ethereal Forest"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Black"
+      "value": "Undead Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cloud"
+      "value": "Sailor"
     },
     {
       "trait_type": "Head",
-      "value": "Golden Mane"
+      "value": "Vipers"
     }
   ],
   "properties": {

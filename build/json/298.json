@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Angel"
+      "value": "Simian Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "Trench Coat"
+      "value": "Denim Jacket"
     },
     {
       "trait_type": "Head",
-      "value": "Bucket Hat"
+      "value": "Sailor Hat"
     }
   ],
   "properties": {

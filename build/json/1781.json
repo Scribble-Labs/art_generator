@@ -13,23 +13,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "Necrothorns Abyss"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Angel"
+      "value": "Undead Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Wan Obi Cloak"
+      "value": "Hypebeast Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "Man Bun"
+      "value": "Bucket Hat"
     }
   ],
   "properties": {

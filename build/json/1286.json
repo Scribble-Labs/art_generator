@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Surprised"
+      "value": "Dark Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Barbarian Armor"
+      "value": "ReBoot Jockey Jacket"
     },
     {
       "trait_type": "Head",
-      "value": "Hipster Blue"
+      "value": "BK Hat"
     }
   ],
   "properties": {

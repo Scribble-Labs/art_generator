@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "ReBoot Theme Park"
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Light White"
+      "value": "Dark Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Tribal Poncho"
+      "value": "First Knight"
     },
     {
       "trait_type": "Head",
-      "value": "Gangster Hat"
+      "value": "Barbarian Helmet"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Stoned"
+      "value": "Undead Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mando Armor"
+      "value": "Trench Coat"
     },
     {
       "trait_type": "Head",
-      "value": "Buccaneer Cap"
+      "value": "White Bandana"
     }
   ],
   "properties": {

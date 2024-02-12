@@ -13,23 +13,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "Mushroom Kingdom"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Black"
+      "value": "Dark Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Black Suit"
+      "value": "Royal Officer"
     },
     {
       "trait_type": "Head",
-      "value": "The King"
+      "value": "Bucket Hat"
     }
   ],
   "properties": {

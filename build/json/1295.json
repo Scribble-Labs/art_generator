@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Black"
+      "value": "Undead Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "Florida Man"
+      "value": "Artist Overalls"
     },
     {
       "trait_type": "Head",
-      "value": "Newsboy"
+      "value": "Ski Mask"
     }
   ],
   "properties": {

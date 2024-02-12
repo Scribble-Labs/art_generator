@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Starry Night"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot Theme Park"
+      "value": "None"
     },
     {
       "trait_type": "Species",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Light Black"
+      "value": "Light White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Spartan ODU"
+      "value": "Desert Camo ACU"
     },
     {
       "trait_type": "Head",
-      "value": "Mage Hat"
+      "value": "Ski Mask"
     }
   ],
   "properties": {

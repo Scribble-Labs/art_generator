@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Surprised"
+      "value": "Dark Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Barbarian Armor"
+      "value": "Mage Cloak"
     },
     {
       "trait_type": "Head",
-      "value": "No Hat"
+      "value": "ReBoot Trucker"
     }
   ],
   "properties": {

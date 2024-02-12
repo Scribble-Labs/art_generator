@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Light White"
+      "value": "Dark White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cloud"
+      "value": "Nuke Dukem"
     },
     {
       "trait_type": "Head",
-      "value": "Gun Top"
+      "value": "Solana Cap"
     }
   ],
   "properties": {

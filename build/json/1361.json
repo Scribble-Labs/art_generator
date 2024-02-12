@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
-      "value": "Apocalyptic City"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Devil"
+      "value": "Dark Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Steampunk Armor"
+      "value": "Fosace Robe"
     },
     {
       "trait_type": "Head",
-      "value": "Kangol"
+      "value": "Barbarian Helmet"
     }
   ],
   "properties": {

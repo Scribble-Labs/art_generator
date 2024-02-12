@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Happy"
+      "value": "Dark Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Trench Coat"
+      "value": "Samurai"
     },
     {
       "trait_type": "Head",
-      "value": "Barbarian Helmet"
+      "value": "Clean Fade"
     }
   ],
   "properties": {

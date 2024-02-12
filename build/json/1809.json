@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Surprised"
+      "value": "Light Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Nuke Dukem"
+      "value": "Royal Officer"
     },
     {
       "trait_type": "Head",
-      "value": "No Hat"
+      "value": "Sombrero"
     }
   ],
   "properties": {

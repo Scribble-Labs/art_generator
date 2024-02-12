@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Black"
+      "value": "Simian Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mage Cloak"
+      "value": "Florida Man"
     },
     {
       "trait_type": "Head",
-      "value": "Hadoken"
+      "value": "Undercut"
     }
   ],
   "properties": {

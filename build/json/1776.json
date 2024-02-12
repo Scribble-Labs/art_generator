@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Black"
+      "value": "Undead Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Royal Officer"
+      "value": "First Knight"
     },
     {
       "trait_type": "Head",
-      "value": "Oni Mask"
+      "value": "Hipster Red"
     }
   ],
   "properties": {

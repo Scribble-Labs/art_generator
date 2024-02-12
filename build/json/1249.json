@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Surprised"
+      "value": "Undead Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Artist Overalls"
+      "value": "Desert Camo ACU"
     },
     {
       "trait_type": "Head",
-      "value": "Newsboy"
+      "value": "Cowboy Hat"
     }
   ],
   "properties": {

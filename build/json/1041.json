@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Angry"
+      "value": "Orc Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Bulletproof Vest"
+      "value": "Goron Tunic"
     },
     {
       "trait_type": "Head",
-      "value": "Hadoken"
+      "value": "Undercut"
     }
   ],
   "properties": {

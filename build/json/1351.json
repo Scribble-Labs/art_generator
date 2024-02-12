@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Doom"
+      "value": "Starry Night"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Angry"
+      "value": "Orc Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Sailor"
+      "value": "Trench Coat"
     },
     {
       "trait_type": "Head",
-      "value": "Dreadlocks"
+      "value": "Clean Fade"
     }
   ],
   "properties": {

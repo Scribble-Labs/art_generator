@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot City"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead White"
+      "value": "Light Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Samurai"
+      "value": "Desert Camo ACU"
     },
     {
       "trait_type": "Head",
-      "value": "Dreadlocks"
+      "value": "Sombrero"
     }
   ],
   "properties": {

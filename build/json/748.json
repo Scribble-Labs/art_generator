@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Black"
+      "value": "Simian Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Spartan ODU"
+      "value": "ReBoot Aviator"
     },
     {
       "trait_type": "Head",
-      "value": "Mage Hat"
+      "value": "Gun Top"
     }
   ],
   "properties": {

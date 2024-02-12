@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Apocalyptic City"
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark White"
+      "value": "Orc Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Spartan ODU"
+      "value": "Samurai"
     },
     {
       "trait_type": "Head",
-      "value": "Undercut"
+      "value": "Hadoken"
     }
   ],
   "properties": {

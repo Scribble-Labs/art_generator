@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Starry Night"
     },
     {
       "trait_type": "Background",
-      "value": "Apocalyptic City"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Black"
+      "value": "Simian Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Bulletproof Vest"
+      "value": "Hypebeast Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "ZAMN"
+      "value": "Bucket Hat"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Black"
+      "value": "Light Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "MF Jersey"
+      "value": "Navy Suit"
     },
     {
       "trait_type": "Head",
-      "value": "The King"
+      "value": "Brunet"
     }
   ],
   "properties": {

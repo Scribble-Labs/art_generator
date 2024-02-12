@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Stoned"
+      "value": "Orc Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Black Suit"
+      "value": "Steampunk Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Dreadlocks"
+      "value": "Brunet"
     }
   ],
   "properties": {

@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "ReBoot Keep"
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark White"
+      "value": "Orc Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "First Knight"
+      "value": "Cyberpunk Jacket"
     },
     {
       "trait_type": "Head",
-      "value": "Forest Camo Helmet"
+      "value": "Ski Mask"
     }
   ],
   "properties": {

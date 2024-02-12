@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Surprised"
+      "value": "Light Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Denim Jacket"
+      "value": "ReBoot Jockey Jacket"
     },
     {
       "trait_type": "Head",
-      "value": "Buccaneer Cap"
+      "value": "Clean Fade"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Angry"
+      "value": "Light White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Legion Breastplate"
+      "value": "Buccaneer Coat"
     },
     {
       "trait_type": "Head",
-      "value": "Buccaneer Cap"
+      "value": "Brunet"
     }
   ],
   "properties": {

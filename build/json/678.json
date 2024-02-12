@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "ReBoot Theme Park"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Devil"
+      "value": "Simian Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Barbarian Armor"
+      "value": "Mage Cloak"
     },
     {
       "trait_type": "Head",
-      "value": "Kangol"
+      "value": "Vipers"
     }
   ],
   "properties": {

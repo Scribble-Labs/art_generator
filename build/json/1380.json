@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot Keep"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Happy"
+      "value": "Dark White"
     },
     {
       "trait_type": "Clothing",
-      "value": "ReBoot Aviator"
+      "value": "Royal Officer"
     },
     {
       "trait_type": "Head",
-      "value": "Man Bun"
+      "value": "Ski Mask"
     }
   ],
   "properties": {

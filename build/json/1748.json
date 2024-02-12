@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Doom"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Black"
+      "value": "Orc Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Bulletproof Vest"
+      "value": "Cloud"
     },
     {
       "trait_type": "Head",
-      "value": "Legion Helmet"
+      "value": "Cowboy Hat"
     }
   ],
   "properties": {

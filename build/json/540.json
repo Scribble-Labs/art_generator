@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Light Stoned"
+      "value": "Light White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mage Cloak"
+      "value": "First Knight"
     },
     {
       "trait_type": "Head",
-      "value": "No Hat"
+      "value": "Hipster Red"
     }
   ],
   "properties": {

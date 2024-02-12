@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Surprised"
+      "value": "Dark Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Steampunk Armor"
+      "value": "Hypebeast Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "Barbarian Helmet"
+      "value": "Blonde"
     }
   ],
   "properties": {

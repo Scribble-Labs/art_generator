@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Stoned"
+      "value": "Dark Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Tribal Poncho"
+      "value": "Desert Camo ACU"
     },
     {
       "trait_type": "Head",
-      "value": "Man Bun"
+      "value": "Undercut"
     }
   ],
   "properties": {

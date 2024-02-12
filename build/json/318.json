@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
-      "value": "Apocalyptic City"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Angry"
+      "value": "Light Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Navy Suit"
+      "value": "ReBoot Aviator"
     },
     {
       "trait_type": "Head",
-      "value": "Hadoken"
+      "value": "Forest Camo Helmet"
     }
   ],
   "properties": {

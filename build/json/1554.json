@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead White"
+      "value": "Dark Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Desert Camo ACU"
+      "value": "Legion Breastplate"
     },
     {
       "trait_type": "Head",
-      "value": "Blonde"
+      "value": "Newsboy"
     }
   ],
   "properties": {

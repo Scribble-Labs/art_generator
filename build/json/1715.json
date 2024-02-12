@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot City"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Surprised"
+      "value": "Simian Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Wan Obi Cloak"
+      "value": "BK Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "Newsboy"
+      "value": "Barbarian Helmet"
     }
   ],
   "properties": {

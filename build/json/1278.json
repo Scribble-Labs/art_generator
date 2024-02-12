@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot Keep"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Happy"
+      "value": "Light White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Black Suit"
+      "value": "Mage Cloak"
     },
     {
       "trait_type": "Head",
-      "value": "Bucket Hat"
+      "value": "Undercut"
     }
   ],
   "properties": {

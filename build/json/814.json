@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Doom"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Angel"
+      "value": "Orc Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Royal Officer"
+      "value": "Buccaneer Coat"
     },
     {
       "trait_type": "Head",
-      "value": "Undercut"
+      "value": "Newsboy"
     }
   ],
   "properties": {

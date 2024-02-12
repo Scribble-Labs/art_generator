@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "ReBoot City"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc White"
+      "value": "Light Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Forest Camo ACU"
+      "value": "Desert Camo ACU"
     },
     {
       "trait_type": "Head",
-      "value": "Undercut"
+      "value": "Hipster Blue"
     }
   ],
   "properties": {

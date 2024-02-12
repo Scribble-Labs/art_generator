@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead White"
+      "value": "Orc Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "Denim Jacket"
+      "value": "Cyberpunk Jacket"
     },
     {
       "trait_type": "Head",
-      "value": "Hadoken"
+      "value": "Man Bun"
     }
   ],
   "properties": {

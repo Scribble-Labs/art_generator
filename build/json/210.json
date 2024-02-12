@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Angry"
+      "value": "Light Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Bulletproof Vest"
+      "value": "Critters Jersey"
     },
     {
       "trait_type": "Head",
-      "value": "Mage Hat"
+      "value": "Chartist"
     }
   ],
   "properties": {

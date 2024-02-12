@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Happy"
+      "value": "Simian Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cyberpunk Jacket"
+      "value": "Cult Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "Ski Mask"
+      "value": "Solana Cap"
     }
   ],
   "properties": {

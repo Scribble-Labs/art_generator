@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Ethereal Forest"
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Devil"
+      "value": "Simian Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Spartan ODU"
+      "value": "Goron Tunic"
     },
     {
       "trait_type": "Head",
-      "value": "Ski Mask"
+      "value": "White Bandana"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Surprised"
+      "value": "Orc Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Legion Breastplate"
+      "value": "Artist Overalls"
     },
     {
       "trait_type": "Head",
-      "value": "Clean Fade"
+      "value": "White Bandana"
     }
   ],
   "properties": {

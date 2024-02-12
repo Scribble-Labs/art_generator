@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Starry Night"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Necrothorns Abyss"
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Black"
+      "value": "Simian Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mage Cloak"
+      "value": "ReBoot Aviator"
     },
     {
       "trait_type": "Head",
-      "value": "Clean Fade"
+      "value": "Golden Mane"
     }
   ],
   "properties": {

@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot Keep"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Angry"
+      "value": "Light Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Critters Jersey"
+      "value": "Artist Overalls"
     },
     {
       "trait_type": "Head",
-      "value": "Tactical Helmet"
+      "value": "Man Bun"
     }
   ],
   "properties": {

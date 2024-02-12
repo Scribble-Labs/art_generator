@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Devil"
+      "value": "Simian Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mando Armor"
+      "value": "Black Suit"
     },
     {
       "trait_type": "Head",
-      "value": "Clean Fade"
+      "value": "Hipster Blue"
     }
   ],
   "properties": {

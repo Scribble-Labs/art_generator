@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian White"
+      "value": "Orc Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Florida Man"
+      "value": "Brown Suit"
     },
     {
       "trait_type": "Head",
-      "value": "Hadoken"
+      "value": "ReBoot Trucker"
     }
   ],
   "properties": {

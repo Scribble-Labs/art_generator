@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Happy"
+      "value": "Orc Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Bulletproof Vest"
+      "value": "Denim Jacket"
     },
     {
       "trait_type": "Head",
-      "value": "Blonde"
+      "value": "Tactical Helmet"
     }
   ],
   "properties": {

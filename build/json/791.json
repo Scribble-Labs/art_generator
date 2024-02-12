@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Happy"
+      "value": "Undead Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "First Knight"
+      "value": "Artist Overalls"
     },
     {
       "trait_type": "Head",
-      "value": "ReBoot Trucker"
+      "value": "Solana Cap"
     }
   ],
   "properties": {

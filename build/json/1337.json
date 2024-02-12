@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Angry"
+      "value": "Light Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Wan Obi Cloak"
+      "value": "MF Jersey"
     },
     {
       "trait_type": "Head",
-      "value": "Undercut"
+      "value": "First Knight Helm"
     }
   ],
   "properties": {

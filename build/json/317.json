@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Black"
+      "value": "Simian White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mage Cloak"
+      "value": "Cyberpunk Jacket"
     },
     {
       "trait_type": "Head",
-      "value": "ReBoot Trucker"
+      "value": "Hadoken"
     }
   ],
   "properties": {

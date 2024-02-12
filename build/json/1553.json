@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Happy"
+      "value": "Orc Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Brown Suit"
+      "value": "Steampunk Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Newsboy"
+      "value": "Barbarian Helmet"
     }
   ],
   "properties": {

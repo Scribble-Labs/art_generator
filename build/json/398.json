@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Devil"
+      "value": "Undead Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Samurai"
+      "value": "Fosace Robe"
     },
     {
       "trait_type": "Head",
-      "value": "Newsboy"
+      "value": "Dreadlocks"
     }
   ],
   "properties": {

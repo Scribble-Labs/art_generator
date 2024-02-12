@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Stoned"
+      "value": "Orc White"
     },
     {
       "trait_type": "Clothing",
-      "value": "First Knight"
+      "value": "Artist Overalls"
     },
     {
       "trait_type": "Head",
-      "value": "Gangster Hat"
+      "value": "Undercut"
     }
   ],
   "properties": {

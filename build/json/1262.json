@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Happy"
+      "value": "Light Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mage Cloak"
+      "value": "BK Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "Hipster Blue"
+      "value": "Barbarian Helmet"
     }
   ],
   "properties": {

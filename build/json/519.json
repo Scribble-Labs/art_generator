@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot Theme Park"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Angry"
+      "value": "Light Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cyberpunk Jacket"
+      "value": "Forest Camo ACU"
     },
     {
       "trait_type": "Head",
-      "value": "Black Bandana"
+      "value": "The King"
     }
   ],
   "properties": {

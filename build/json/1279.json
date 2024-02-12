@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
@@ -25,11 +25,11 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Samurai"
+      "value": "Brown Suit"
     },
     {
       "trait_type": "Head",
-      "value": "Clean Fade"
+      "value": "White Bandana"
     }
   ],
   "properties": {

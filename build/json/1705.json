@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Happy"
+      "value": "Simian Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Buccaneer Coat"
+      "value": "Critters Jersey"
     },
     {
       "trait_type": "Head",
-      "value": "Blonde"
+      "value": "Ski Mask"
     }
   ],
   "properties": {

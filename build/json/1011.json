@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Starry Night"
     },
     {
       "trait_type": "Background",
-      "value": "Apocalyptic City"
+      "value": "Mushroom Kingdom"
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Angel"
+      "value": "Orc White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Artist Overalls"
+      "value": "Legion Breastplate"
     },
     {
       "trait_type": "Head",
-      "value": "Newsboy"
+      "value": "Hipster Red"
     }
   ],
   "properties": {

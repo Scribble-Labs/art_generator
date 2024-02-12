@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Surprised"
+      "value": "Dark White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Buccaneer Coat"
+      "value": "Navy Suit"
     },
     {
       "trait_type": "Head",
-      "value": "Cowboy Hat"
+      "value": "Dreadlocks"
     }
   ],
   "properties": {

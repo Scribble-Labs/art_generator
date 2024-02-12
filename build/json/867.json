@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Stoned"
+      "value": "Light Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Black Suit"
+      "value": "First Knight"
     },
     {
       "trait_type": "Head",
-      "value": "Kangol"
+      "value": "White Bandana"
     }
   ],
   "properties": {

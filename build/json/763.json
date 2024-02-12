@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Stoned"
+      "value": "Simian Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "Desert Camo ACU"
+      "value": "First Knight"
     },
     {
       "trait_type": "Head",
-      "value": "Tactical Helmet"
+      "value": "Cowboy Hat"
     }
   ],
   "properties": {

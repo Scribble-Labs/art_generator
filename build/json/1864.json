@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -25,11 +25,11 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Nuke Dukem"
+      "value": "Solana Jersey"
     },
     {
       "trait_type": "Head",
-      "value": "Buccaneer Cap"
+      "value": "Hipster Red"
     }
   ],
   "properties": {

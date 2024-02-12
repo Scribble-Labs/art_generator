@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Necrothorns Abyss"
     },
     {
       "trait_type": "Species",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Black"
+      "value": "Orc Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mage Cloak"
+      "value": "Sailor"
     },
     {
       "trait_type": "Head",
-      "value": "Barbarian Helmet"
+      "value": "Blonde"
     }
   ],
   "properties": {

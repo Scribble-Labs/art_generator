@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Angel"
+      "value": "Undead Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Desert Camo ACU"
+      "value": "Cult Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "Hadoken"
+      "value": "Man Bun"
     }
   ],
   "properties": {

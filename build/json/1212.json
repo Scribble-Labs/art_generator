@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Black"
+      "value": "Orc Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Barbarian Armor"
+      "value": "Critters Jersey"
     },
     {
       "trait_type": "Head",
-      "value": "Buccaneer Cap"
+      "value": "First Knight Helm"
     }
   ],
   "properties": {

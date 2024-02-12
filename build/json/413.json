@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Stoned"
+      "value": "Light Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Hypebeast Shirt"
+      "value": "Forest Camo ACU"
     },
     {
       "trait_type": "Head",
-      "value": "Man Bun"
+      "value": "Gangster Hat"
     }
   ],
   "properties": {

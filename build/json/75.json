@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Starry Night"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot City"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark White"
+      "value": "Orc Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Legion Breastplate"
+      "value": "Artist Overalls"
     },
     {
       "trait_type": "Head",
-      "value": "Undercut"
+      "value": "Sailor Hat"
     }
   ],
   "properties": {

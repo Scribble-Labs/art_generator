@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
-      "value": "Ethereal Forest"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Light White"
+      "value": "Dark Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Bulletproof Vest"
+      "value": "Navy Suit"
     },
     {
       "trait_type": "Head",
-      "value": "Kangol"
+      "value": "Sombrero"
     }
   ],
   "properties": {

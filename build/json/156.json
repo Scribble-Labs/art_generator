@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Doom"
+      "value": "Starry Night"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Stoned"
+      "value": "Light Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Critters Jersey"
+      "value": "ReBoot Aviator"
     },
     {
       "trait_type": "Head",
-      "value": "Hipster Red"
+      "value": "Sombrero"
     }
   ],
   "properties": {

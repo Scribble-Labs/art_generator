@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian White"
+      "value": "Dark Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mando Armor"
+      "value": "Florida Man"
     },
     {
       "trait_type": "Head",
-      "value": "Black Bandana"
+      "value": "BK Hat"
     }
   ],
   "properties": {

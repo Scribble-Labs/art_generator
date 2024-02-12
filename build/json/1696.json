@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Starry Night"
     },
     {
       "trait_type": "Background",
-      "value": "Mushroom Kingdom"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Angry"
+      "value": "Light Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Bulletproof Vest"
+      "value": "Royal Officer"
     },
     {
       "trait_type": "Head",
-      "value": "Sailor Hat"
+      "value": "Valkyrie"
     }
   ],
   "properties": {

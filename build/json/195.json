@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -25,11 +25,11 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Brown Suit"
+      "value": "Steampunk Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Mage Hat"
+      "value": "Barbarian Helmet"
     }
   ],
   "properties": {

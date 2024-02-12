@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Doom"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Apocalyptic City"
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Stoned"
+      "value": "Orc White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Trench Coat"
+      "value": "Wan Obi Cloak"
     },
     {
       "trait_type": "Head",
-      "value": "BK Hat"
+      "value": "Gangster Hat"
     }
   ],
   "properties": {

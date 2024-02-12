@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Black"
+      "value": "Simian White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Navy Suit"
+      "value": "Cult Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "ReBoot Trucker"
+      "value": "Newsboy"
     }
   ],
   "properties": {

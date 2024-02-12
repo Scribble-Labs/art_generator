@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
-      "value": "Ethereal Forest"
+      "value": "Mushroom Kingdom"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Happy"
+      "value": "Simian Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "Nuke Dukem"
+      "value": "Barbarian Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Gun Top"
+      "value": "Clean Fade"
     }
   ],
   "properties": {

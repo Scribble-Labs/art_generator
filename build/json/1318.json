@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "ReBoot Keep"
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Angel"
+      "value": "Light Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Florida Man"
+      "value": "Critters Jersey"
     },
     {
       "trait_type": "Head",
-      "value": "Ski Mask"
+      "value": "First Knight Helm"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Light Black"
+      "value": "Light Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cyberpunk Jacket"
+      "value": "Bulletproof Vest"
     },
     {
       "trait_type": "Head",
-      "value": "Hipster Red"
+      "value": "Barbarian Helmet"
     }
   ],
   "properties": {

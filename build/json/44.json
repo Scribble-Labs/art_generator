@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian White"
+      "value": "Light Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mage Cloak"
+      "value": "Steampunk Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Sombrero"
+      "value": "Legion Helmet"
     }
   ],
   "properties": {

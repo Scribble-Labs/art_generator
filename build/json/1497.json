@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Mushroom Kingdom"
     },
     {
       "trait_type": "Species",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Angry"
+      "value": "Simian Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Hypebeast Shirt"
+      "value": "Forest Camo ACU"
     },
     {
       "trait_type": "Head",
-      "value": "Kangol"
+      "value": "First Knight Helm"
     }
   ],
   "properties": {

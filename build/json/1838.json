@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -17,11 +17,11 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Devil"
+      "value": "Simian Happy"
     },
     {
       "trait_type": "Clothing",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "Head",
-      "value": "Cowboy Hat"
+      "value": "Mage Hat"
     }
   ],
   "properties": {

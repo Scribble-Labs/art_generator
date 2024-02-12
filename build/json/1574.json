@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Angry"
+      "value": "Orc Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Spartan ODU"
+      "value": "Legion Breastplate"
     },
     {
       "trait_type": "Head",
-      "value": "Blonde"
+      "value": "Gangster Hat"
     }
   ],
   "properties": {

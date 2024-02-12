@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Black"
+      "value": "Orc Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "ReBoot Jockey Jacket"
+      "value": "Forest Camo ACU"
     },
     {
       "trait_type": "Head",
-      "value": "Legion Helmet"
+      "value": "White Bandana"
     }
   ],
   "properties": {

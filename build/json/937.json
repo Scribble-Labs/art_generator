@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Light White"
+      "value": "Light Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cyberpunk Jacket"
+      "value": "Black Suit"
     },
     {
       "trait_type": "Head",
-      "value": "Newsboy"
+      "value": "Ski Mask"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Doom"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Black"
+      "value": "Light Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "Spartan ODU"
+      "value": "Tribal Poncho"
     },
     {
       "trait_type": "Head",
-      "value": "Bucket Hat"
+      "value": "White Bandana"
     }
   ],
   "properties": {

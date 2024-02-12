@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark White"
+      "value": "Orc Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Navy Suit"
+      "value": "Royal Officer"
     },
     {
       "trait_type": "Head",
-      "value": "Sailor Hat"
+      "value": "White Bandana"
     }
   ],
   "properties": {

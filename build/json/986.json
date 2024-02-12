@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
-      "value": "Ethereal Forest"
+      "value": "Necrothorns Abyss"
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Light White"
+      "value": "Dark Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mando Armor"
+      "value": "Buccaneer Coat"
     },
     {
       "trait_type": "Head",
-      "value": "Kangol"
+      "value": "Clean Fade"
     }
   ],
   "properties": {

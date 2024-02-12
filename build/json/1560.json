@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Apocalyptic City"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Devil"
+      "value": "Simian Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Tribal Poncho"
+      "value": "First Knight"
     },
     {
       "trait_type": "Head",
-      "value": "Cowboy Hat"
+      "value": "Clean Fade"
     }
   ],
   "properties": {

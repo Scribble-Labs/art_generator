@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Black"
+      "value": "Dark Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Solana Jersey"
+      "value": "Royal Officer"
     },
     {
       "trait_type": "Head",
-      "value": "Newsboy"
+      "value": "The King"
     }
   ],
   "properties": {

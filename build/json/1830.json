@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Mushroom Kingdom"
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Stoned"
+      "value": "Light Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Trench Coat"
+      "value": "Denim Jacket"
     },
     {
       "trait_type": "Head",
-      "value": "Man Bun"
+      "value": "Barbarian Helmet"
     }
   ],
   "properties": {

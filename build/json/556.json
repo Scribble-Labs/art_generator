@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Devil"
+      "value": "Dark Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "Trench Coat"
+      "value": "ReBoot Jockey Jacket"
     },
     {
       "trait_type": "Head",
-      "value": "Gun Top"
+      "value": "Newsboy"
     }
   ],
   "properties": {

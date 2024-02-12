@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Starry Night"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Stoned"
+      "value": "Orc Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Denim Jacket"
+      "value": "Desert Camo ACU"
     },
     {
       "trait_type": "Head",
-      "value": "Black Bandana"
+      "value": "Bucket Hat"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc White"
+      "value": "Light Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Trench Coat"
+      "value": "Navy Suit"
     },
     {
       "trait_type": "Head",
-      "value": "Sombrero"
+      "value": "Gray Cowboy Hat"
     }
   ],
   "properties": {

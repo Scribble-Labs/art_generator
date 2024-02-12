@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "ReBoot Keep"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Happy"
+      "value": "Light Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Nuke Dukem"
+      "value": "Cloud"
     },
     {
       "trait_type": "Head",
-      "value": "Hipster Blue"
+      "value": "Forest Camo Helmet"
     }
   ],
   "properties": {

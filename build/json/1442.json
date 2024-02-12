@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot City"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Stoned"
+      "value": "Simian Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Royal Officer"
+      "value": "Denim Jacket"
     },
     {
       "trait_type": "Head",
-      "value": "Tactical Helmet"
+      "value": "Legion Helmet"
     }
   ],
   "properties": {

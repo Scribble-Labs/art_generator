@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "ReBoot City"
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Angel"
+      "value": "Undead Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "First Knight"
+      "value": "BK Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "First Knight Helm"
+      "value": "Hipster Blue"
     }
   ],
   "properties": {

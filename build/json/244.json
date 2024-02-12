@@ -13,23 +13,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Necrothorns Abyss"
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Stoned"
+      "value": "Dark Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Brown Suit"
+      "value": "Desert Camo ACU"
     },
     {
       "trait_type": "Head",
-      "value": "Ski Mask"
+      "value": "Bucket Hat"
     }
   ],
   "properties": {

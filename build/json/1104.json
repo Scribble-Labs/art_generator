@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -17,11 +17,11 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead White"
+      "value": "Simian Angel"
     },
     {
       "trait_type": "Clothing",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "Head",
-      "value": "Undercut"
+      "value": "Golden Mane"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -25,11 +25,11 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Solana Jersey"
+      "value": "Forest Camo ACU"
     },
     {
       "trait_type": "Head",
-      "value": "Mage Hat"
+      "value": "BK Hat"
     }
   ],
   "properties": {

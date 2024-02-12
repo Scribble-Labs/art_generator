@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc White"
+      "value": "Simian Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Tribal Poncho"
+      "value": "Artist Overalls"
     },
     {
       "trait_type": "Head",
-      "value": "Solana Cap"
+      "value": "Dreadlocks"
     }
   ],
   "properties": {

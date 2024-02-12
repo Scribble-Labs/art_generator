@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Happy"
+      "value": "Light Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Black Suit"
+      "value": "Spartan ODU"
     },
     {
       "trait_type": "Head",
-      "value": "Tactical Helmet"
+      "value": "Newsboy"
     }
   ],
   "properties": {

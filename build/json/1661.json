@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -25,11 +25,11 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "First Knight"
+      "value": "Mando Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Bucket Hat"
+      "value": "Tactical Helmet"
     }
   ],
   "properties": {

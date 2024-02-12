@@ -9,23 +9,23 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "ReBoot Theme Park"
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Angry"
+      "value": "Orc Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cyberpunk Jacket"
+      "value": "Trench Coat"
     },
     {
       "trait_type": "Head",

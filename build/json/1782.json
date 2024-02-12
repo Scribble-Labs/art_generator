@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Stoned"
+      "value": "Simian Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Florida Man"
+      "value": "Barbarian Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Gangster Hat"
+      "value": "Gray Cowboy Hat"
     }
   ],
   "properties": {

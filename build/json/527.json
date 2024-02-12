@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Angry"
+      "value": "Dark Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cloud"
+      "value": "Navy Suit"
     },
     {
       "trait_type": "Head",
-      "value": "Kangol"
+      "value": "Vipers"
     }
   ],
   "properties": {

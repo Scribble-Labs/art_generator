@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot Keep"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Angry"
+      "value": "Simian Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Solana Jersey"
+      "value": "Samurai"
     },
     {
       "trait_type": "Head",
-      "value": "White Bandana"
+      "value": "BK Hat"
     }
   ],
   "properties": {

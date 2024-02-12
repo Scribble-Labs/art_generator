@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Dark White"
+      "value": "Dark Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Denim Jacket"
+      "value": "Legion Breastplate"
     },
     {
       "trait_type": "Head",
-      "value": "First Knight Helm"
+      "value": "Gangster Hat"
     }
   ],
   "properties": {

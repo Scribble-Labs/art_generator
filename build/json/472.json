@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Angel"
+      "value": "Dark Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Wan Obi Cloak"
+      "value": "Brown Suit"
     },
     {
       "trait_type": "Head",
-      "value": "Legion Helmet"
+      "value": "Newsboy"
     }
   ],
   "properties": {

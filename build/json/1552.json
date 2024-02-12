@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Doom"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
-      "value": "Necrothorns Abyss"
+      "value": "Ethereal Forest"
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Angel"
+      "value": "Undead Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cloud"
+      "value": "Hypebeast Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "Ski Mask"
+      "value": "The King"
     }
   ],
   "properties": {

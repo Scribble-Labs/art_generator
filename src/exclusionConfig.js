@@ -250,8 +250,8 @@ const exclusionRules = [
      "Buccaneer Coat", "Bulletproof Vest", "Cloud", "Critters Jersey", "Cult Shirt",
       "Cyberpunk Jacket", "Denim Jacket", "Desert Camo ACU", "First Knight", "Florida Man",
       "Forest Camo ACU", "Fosace Robe", "Goron Tunic", "Highborn Knight Armor", "Hypebeast Shirt",
-      "Legion Breastplate", "Mage Cloak", "Mando Armor", "MF Jersey", "Navy Suit", "Necromancer",
-      "Nuke Dukem", "ReBoot Aviator", "ReBoot Hoodie", "ReBoot Jockey Jacket", "Rogue Archer",
+      "Legion Breastplate", "Mage Cloak", "Mando Armor", "MF Jersey", "Navy Suit",
+      "Nuke Dukem", "ReBoot Aviator", "ReBoot Jockey Jacket",
       "Royal Officer", "Sailor", "Samurai", "Solana Jersey", "Spartan ODU", "Steampunk Armor",
       "Trench Coat", "Tribal Poncho", "Wan Obi Cloak",]
   },

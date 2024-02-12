@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Angel"
+      "value": "Orc White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Sailor"
+      "value": "Barbarian Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Dreadlocks"
+      "value": "Brunet"
     }
   ],
   "properties": {

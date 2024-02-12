@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Stoned"
+      "value": "Orc Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Trench Coat"
+      "value": "Denim Jacket"
     },
     {
       "trait_type": "Head",
-      "value": "Legion Helmet"
+      "value": "Hipster Red"
     }
   ],
   "properties": {

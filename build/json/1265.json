@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Angel"
+      "value": "Light Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Artist Overalls"
+      "value": "Mando Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Mage Hat"
+      "value": "Vipers"
     }
   ],
   "properties": {

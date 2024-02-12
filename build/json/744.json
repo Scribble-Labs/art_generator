@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Doom"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "ReBoot Theme Park"
     },
     {
       "trait_type": "Species",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Light Happy"
+      "value": "Light Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Playmakers Onesie"
+      "value": "Cult Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "No Hat"
+      "value": "Tactical Helmet"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Angry"
+      "value": "Orc Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Royal Officer"
+      "value": "Rogue Archer"
     },
     {
       "trait_type": "Head",
-      "value": "Mage Hat"
+      "value": "No Hat"
     }
   ],
   "properties": {

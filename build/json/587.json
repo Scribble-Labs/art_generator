@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
-      "value": "Mushroom Kingdom"
+      "value": "ReBoot Keep"
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Stoned"
+      "value": "Dark Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "Wan Obi Cloak"
+      "value": "Sailor"
     },
     {
       "trait_type": "Head",
-      "value": "Forest Camo Helmet"
+      "value": "Hadoken"
     }
   ],
   "properties": {

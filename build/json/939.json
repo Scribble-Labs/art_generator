@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc White"
+      "value": "Light Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Denim Jacket"
+      "value": "Mage Cloak"
     },
     {
       "trait_type": "Head",
-      "value": "Solana Cap"
+      "value": "Forest Camo Helmet"
     }
   ],
   "properties": {

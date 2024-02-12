@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Apocalyptic City"
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Surprised"
+      "value": "Undead Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Denim Jacket"
+      "value": "Cyberpunk Jacket"
     },
     {
       "trait_type": "Head",
-      "value": "Cowboy Hat"
+      "value": "Legion Helmet"
     }
   ],
   "properties": {

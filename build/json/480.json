@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
-      "value": "Ethereal Forest"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Stoned"
+      "value": "Light White"
     },
     {
       "trait_type": "Clothing",
-      "value": "ReBoot Aviator"
+      "value": "Trench Coat"
     },
     {
       "trait_type": "Head",
-      "value": "No Hat"
+      "value": "Gray Cowboy Hat"
     }
   ],
   "properties": {

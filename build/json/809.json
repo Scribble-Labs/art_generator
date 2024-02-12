@@ -13,23 +13,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "Apocalyptic City"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Surprised"
+      "value": "Undead Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mage Cloak"
+      "value": "Desert Camo ACU"
     },
     {
       "trait_type": "Head",
-      "value": "ReBoot Trucker"
+      "value": "Gun Top"
     }
   ],
   "properties": {

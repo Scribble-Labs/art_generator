@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot Theme Park"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Happy"
+      "value": "Light White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Fosace Robe"
+      "value": "Highborn Knight Armor"
     },
     {
       "trait_type": "Head",
-      "value": "White Bandana"
+      "value": "Black Bandana"
     }
   ],
   "properties": {

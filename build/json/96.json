@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Necrothorns Abyss"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Angel"
+      "value": "Simian Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "ReBoot Aviator"
+      "value": "Goron Tunic"
     },
     {
       "trait_type": "Head",
-      "value": "Legion Helmet"
+      "value": "Gray Cowboy Hat"
     }
   ],
   "properties": {

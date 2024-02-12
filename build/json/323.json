@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Happy"
+      "value": "Undead White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cloud"
+      "value": "Wan Obi Cloak"
     },
     {
       "trait_type": "Head",
-      "value": "Legion Helmet"
+      "value": "Gray Cowboy Hat"
     }
   ],
   "properties": {

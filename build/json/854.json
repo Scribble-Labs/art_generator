@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Doom"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Black"
+      "value": "Dark Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Florida Man"
+      "value": "Hypebeast Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "ZAMN"
+      "value": "Mage Hat"
     }
   ],
   "properties": {

@@ -13,23 +13,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot City"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc White"
+      "value": "Light Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Forest Camo ACU"
+      "value": "Cult Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "Legion Helmet"
+      "value": "Newsboy"
     }
   ],
   "properties": {

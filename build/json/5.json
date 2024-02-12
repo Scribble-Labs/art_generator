@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Light White"
+      "value": "Undead Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cloud"
+      "value": "Florida Man"
     },
     {
       "trait_type": "Head",
-      "value": "First Knight Helm"
+      "value": "Golden Mane"
     }
   ],
   "properties": {

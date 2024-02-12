@@ -9,19 +9,19 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
-      "value": "Apocalyptic City"
+      "value": "Necrothorns Abyss"
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead White"
+      "value": "Dark White"
     },
     {
       "trait_type": "Clothing",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "Head",
-      "value": "Legion Helmet"
+      "value": "Tactical Helmet"
     }
   ],
   "properties": {

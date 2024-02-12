@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc White"
+      "value": "Dark Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Artist Overalls"
+      "value": "Tribal Poncho"
     },
     {
       "trait_type": "Head",
-      "value": "Hipster Red"
+      "value": "Tactical Helmet"
     }
   ],
   "properties": {

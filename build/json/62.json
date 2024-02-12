@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Happy"
+      "value": "Light White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Barbarian Armor"
+      "value": "ReBoot Aviator"
     },
     {
       "trait_type": "Head",
-      "value": "Ski Mask"
+      "value": "White Bandana"
     }
   ],
   "properties": {

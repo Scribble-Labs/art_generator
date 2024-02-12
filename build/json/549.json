@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "ReBoot City"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc White"
+      "value": "Undead White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mando Armor"
+      "value": "Denim Jacket"
     },
     {
       "trait_type": "Head",
-      "value": "First Knight Helm"
+      "value": "Newsboy"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Light Surprised"
+      "value": "Light Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Florida Man"
+      "value": "Tribal Poncho"
     },
     {
       "trait_type": "Head",
-      "value": "Dreadlocks"
+      "value": "Legion Helmet"
     }
   ],
   "properties": {

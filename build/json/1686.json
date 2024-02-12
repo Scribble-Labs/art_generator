@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Happy"
+      "value": "Simian White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Trench Coat"
+      "value": "Mando Armor"
     },
     {
       "trait_type": "Head",
-      "value": "No Hat"
+      "value": "Hipster Red"
     }
   ],
   "properties": {

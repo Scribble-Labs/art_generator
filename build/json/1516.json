@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Doom"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "ReBoot City"
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Devil"
+      "value": "Dark Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "BK Shirt"
+      "value": "Brown Suit"
     },
     {
       "trait_type": "Head",
-      "value": "ReBoot Trucker"
+      "value": "White Bandana"
     }
   ],
   "properties": {

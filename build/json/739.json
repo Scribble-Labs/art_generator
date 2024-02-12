@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Doom"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "ReBoot Keep"
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Stoned"
+      "value": "Dark White"
     },
     {
       "trait_type": "Clothing",
-      "value": "First Knight"
+      "value": "Cult Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "Hadoken"
+      "value": "BK Hat"
     }
   ],
   "properties": {

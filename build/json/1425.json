@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Black"
+      "value": "Orc White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Navy Suit"
+      "value": "Barbarian Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Buccaneer Cap"
+      "value": "Solana Cap"
     }
   ],
   "properties": {

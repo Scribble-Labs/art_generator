@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Starry Night"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "ReBoot City"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Black"
+      "value": "Simian Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Artist Overalls"
+      "value": "Steampunk Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Hipster Blue"
+      "value": "Kangol"
     }
   ],
   "properties": {

@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
-      "value": "Necrothorns Abyss"
+      "value": "None"
     },
     {
       "trait_type": "Species",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Surprised"
+      "value": "Simian Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Sailor"
+      "value": "Goron Tunic"
     },
     {
       "trait_type": "Head",
-      "value": "Tactical Helmet"
+      "value": "ZAMN"
     }
   ],
   "properties": {

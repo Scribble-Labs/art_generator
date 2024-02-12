@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Stoned"
+      "value": "Light White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Critters Jersey"
+      "value": "First Knight"
     },
     {
       "trait_type": "Head",
-      "value": "Undercut"
+      "value": "Gangster Hat"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Happy"
+      "value": "Orc Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Bulletproof Vest"
+      "value": "Highborn Knight Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Gun Top"
+      "value": "Tactical Helmet"
     }
   ],
   "properties": {

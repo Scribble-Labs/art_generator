@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Devil"
+      "value": "Undead Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "Solana Jersey"
+      "value": "Fosace Robe"
     },
     {
       "trait_type": "Head",
-      "value": "Newsboy"
+      "value": "Gun Top"
     }
   ],
   "properties": {

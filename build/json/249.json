@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Stoned"
+      "value": "Undead White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Royal Officer"
+      "value": "Cyberpunk Jacket"
     },
     {
       "trait_type": "Head",
-      "value": "Sombrero"
+      "value": "Ski Mask"
     }
   ],
   "properties": {

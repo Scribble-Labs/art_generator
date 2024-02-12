@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Stoned"
+      "value": "Simian Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Buccaneer Coat"
+      "value": "Trench Coat"
     },
     {
       "trait_type": "Head",
-      "value": "No Hat"
+      "value": "Barbarian Helmet"
     }
   ],
   "properties": {

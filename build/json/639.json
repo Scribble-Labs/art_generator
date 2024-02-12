@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Mushroom Kingdom"
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Surprised"
+      "value": "Orc Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "BK Shirt"
+      "value": "Samurai"
     },
     {
       "trait_type": "Head",
-      "value": "Chartist"
+      "value": "Tactical Helmet"
     }
   ],
   "properties": {

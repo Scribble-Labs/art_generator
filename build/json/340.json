@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot Keep"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark White"
+      "value": "Simian Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Trench Coat"
+      "value": "Spartan ODU"
     },
     {
       "trait_type": "Head",
-      "value": "Legion Helmet"
+      "value": "Gray Cowboy Hat"
     }
   ],
   "properties": {

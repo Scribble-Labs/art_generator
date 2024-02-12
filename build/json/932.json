@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Black"
+      "value": "Simian Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Black Suit"
+      "value": "Legion Breastplate"
     },
     {
       "trait_type": "Head",
-      "value": "Buccaneer Cap"
+      "value": "Tactical Helmet"
     }
   ],
   "properties": {

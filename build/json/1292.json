@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Light Surprised"
+      "value": "Light Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "ReBoot Aviator"
+      "value": "Cloud"
     },
     {
       "trait_type": "Head",
-      "value": "Bucket Hat"
+      "value": "Buccaneer Cap"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Surprised"
+      "value": "Orc White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Trench Coat"
+      "value": "Wan Obi Cloak"
     },
     {
       "trait_type": "Head",
-      "value": "Solana Cap"
+      "value": "Gray Cowboy Hat"
     }
   ],
   "properties": {

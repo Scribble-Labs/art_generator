@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "ReBoot Theme Park"
     },
     {
       "trait_type": "Species",
@@ -25,11 +25,11 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Critters Jersey"
+      "value": "Royal Officer"
     },
     {
       "trait_type": "Head",
-      "value": "Gun Top"
+      "value": "Man Bun"
     }
   ],
   "properties": {

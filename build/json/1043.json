@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Angry"
+      "value": "Dark Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mage Cloak"
+      "value": "Cyberpunk Jacket"
     },
     {
       "trait_type": "Head",
-      "value": "No Hat"
+      "value": "White Bandana"
     }
   ],
   "properties": {

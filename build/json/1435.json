@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark White"
+      "value": "Orc Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Goron Tunic"
+      "value": "Bulletproof Vest"
     },
     {
       "trait_type": "Head",
-      "value": "Solana Cap"
+      "value": "Gray Cowboy Hat"
     }
   ],
   "properties": {

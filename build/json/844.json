@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Apocalyptic City"
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Angry"
+      "value": "Light White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Trench Coat"
+      "value": "Fosace Robe"
     },
     {
       "trait_type": "Head",
-      "value": "Buccaneer Cap"
+      "value": "Clean Fade"
     }
   ],
   "properties": {

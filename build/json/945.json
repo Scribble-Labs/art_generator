@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot City"
+      "value": "ReBoot Theme Park"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Angry"
+      "value": "Simian Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cloud"
+      "value": "Bulletproof Vest"
     },
     {
       "trait_type": "Head",
-      "value": "Hadoken"
+      "value": "Tactical Helmet"
     }
   ],
   "properties": {

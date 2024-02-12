@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
-      "value": "Apocalyptic City"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Stoned"
+      "value": "Orc White"
     },
     {
       "trait_type": "Clothing",
-      "value": "BK Shirt"
+      "value": "Fosace Robe"
     },
     {
       "trait_type": "Head",
-      "value": "Oni Mask"
+      "value": "Forest Camo Helmet"
     }
   ],
   "properties": {

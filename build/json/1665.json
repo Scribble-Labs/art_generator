@@ -9,19 +9,19 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Doom"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "ReBoot Theme Park"
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Devil"
+      "value": "Dark Angel"
     },
     {
       "trait_type": "Clothing",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "Head",
-      "value": "Mage Hat"
+      "value": "Dreadlocks"
     }
   ],
   "properties": {

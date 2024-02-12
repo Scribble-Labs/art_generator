@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Stoned"
+      "value": "Simian Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mage Cloak"
+      "value": "Cloud"
     },
     {
       "trait_type": "Head",
-      "value": "Newsboy"
+      "value": "Hadoken"
     }
   ],
   "properties": {

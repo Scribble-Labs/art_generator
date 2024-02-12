@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Starry Night"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Stoned"
+      "value": "Simian Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Royal Officer"
+      "value": "Cloud"
     },
     {
       "trait_type": "Head",
-      "value": "White Bandana"
+      "value": "Legion Helmet"
     }
   ],
   "properties": {

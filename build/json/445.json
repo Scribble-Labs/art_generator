@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Happy"
+      "value": "Simian Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cloud"
+      "value": "Trench Coat"
     },
     {
       "trait_type": "Head",
-      "value": "Tactical Helmet"
+      "value": "Gray Cowboy Hat"
     }
   ],
   "properties": {

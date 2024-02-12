@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Devil"
+      "value": "Simian Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Black Suit"
+      "value": "Barbarian Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Buccaneer Cap"
+      "value": "Undercut"
     }
   ],
   "properties": {

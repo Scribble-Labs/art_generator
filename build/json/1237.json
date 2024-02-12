@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Surprised"
+      "value": "Light Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Sailor"
+      "value": "First Knight"
     },
     {
       "trait_type": "Head",
-      "value": "Black Bandana"
+      "value": "Brunet"
     }
   ],
   "properties": {

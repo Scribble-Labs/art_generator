@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Angel"
+      "value": "Orc Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Brown Suit"
+      "value": "Steampunk Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Legion Helmet"
+      "value": "ReBoot Trucker"
     }
   ],
   "properties": {

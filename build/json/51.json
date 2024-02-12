@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Black"
+      "value": "Light White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Solana Jersey"
+      "value": "Trench Coat"
     },
     {
       "trait_type": "Head",
-      "value": "Kangol"
+      "value": "Cowboy Hat"
     }
   ],
   "properties": {

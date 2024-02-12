@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
-      "value": "Apocalyptic City"
+      "value": "ReBoot City"
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Stoned"
+      "value": "Orc Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "ReBoot Jockey Jacket"
+      "value": "Wan Obi Cloak"
     },
     {
       "trait_type": "Head",
-      "value": "Tactical Helmet"
+      "value": "Blonde"
     }
   ],
   "properties": {

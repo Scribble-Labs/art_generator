@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Angry"
+      "value": "Light Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Florida Man"
+      "value": "Barbarian Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Clean Fade"
+      "value": "Sombrero"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Happy"
+      "value": "Dark Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "Trench Coat"
+      "value": "Critters Jersey"
     },
     {
       "trait_type": "Head",
-      "value": "Hipster Blue"
+      "value": "Blonde"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Devil"
+      "value": "Light Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Navy Suit"
+      "value": "Sailor"
     },
     {
       "trait_type": "Head",
-      "value": "No Hat"
+      "value": "Golden Mane"
     }
   ],
   "properties": {

@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "ReBoot Theme Park"
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Angry"
+      "value": "Simian Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Fosace Robe"
+      "value": "Black Suit"
     },
     {
       "trait_type": "Head",
-      "value": "Tactical Helmet"
+      "value": "Legion Helmet"
     }
   ],
   "properties": {

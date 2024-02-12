@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Angel"
+      "value": "Undead Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Tribal Poncho"
+      "value": "Florida Man"
     },
     {
       "trait_type": "Head",
-      "value": "Clean Fade"
+      "value": "ReBoot Trucker"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Black"
+      "value": "Orc Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Brown Suit"
+      "value": "Artist Overalls"
     },
     {
       "trait_type": "Head",
-      "value": "No Hat"
+      "value": "Black Bandana"
     }
   ],
   "properties": {

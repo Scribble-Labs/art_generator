@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot City"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Stoned"
+      "value": "Undead Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Spartan ODU"
+      "value": "Hypebeast Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "The King"
+      "value": "Sombrero"
     }
   ],
   "properties": {

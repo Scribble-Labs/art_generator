@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
-      "value": "Necrothorns Abyss"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Happy"
+      "value": "Dark Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cloud"
+      "value": "Mage Cloak"
     },
     {
       "trait_type": "Head",
-      "value": "Ski Mask"
+      "value": "Tactical Helmet"
     }
   ],
   "properties": {

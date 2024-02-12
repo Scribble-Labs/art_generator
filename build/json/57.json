@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Angel"
+      "value": "Undead Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Solana Jersey"
+      "value": "Black Suit"
     },
     {
       "trait_type": "Head",
-      "value": "Gangster Hat"
+      "value": "ReBoot Trucker"
     }
   ],
   "properties": {

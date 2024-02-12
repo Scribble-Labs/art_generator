@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Angry"
+      "value": "Orc Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cloud"
+      "value": "Royal Officer"
     },
     {
       "trait_type": "Head",
-      "value": "Gun Top"
+      "value": "Hipster Blue"
     }
   ],
   "properties": {

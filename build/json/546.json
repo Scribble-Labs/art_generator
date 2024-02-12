@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Angry"
+      "value": "Dark Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Critters Jersey"
+      "value": "Florida Man"
     },
     {
       "trait_type": "Head",
-      "value": "Barbarian Helmet"
+      "value": "ReBoot Trucker"
     }
   ],
   "properties": {

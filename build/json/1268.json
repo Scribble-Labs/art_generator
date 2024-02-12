@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Apocalyptic City"
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Angel"
+      "value": "Undead White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Solana Jersey"
+      "value": "Steampunk Armor"
     },
     {
       "trait_type": "Head",
-      "value": "BK Hat"
+      "value": "Tactical Helmet"
     }
   ],
   "properties": {

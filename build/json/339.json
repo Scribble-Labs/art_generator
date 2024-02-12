@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Stoned"
+      "value": "Orc White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Goron Tunic"
+      "value": "Highborn Knight Armor"
     },
     {
       "trait_type": "Head",
-      "value": "No Hat"
+      "value": "Golden Mane"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Surprised"
+      "value": "Orc Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Highborn Knight Armor"
+      "value": "Royal Officer"
     },
     {
       "trait_type": "Head",
-      "value": "Hipster Red"
+      "value": "Undercut"
     }
   ],
   "properties": {

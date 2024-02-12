@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Black"
+      "value": "Simian Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Fosace Robe"
+      "value": "Bulletproof Vest"
     },
     {
       "trait_type": "Head",
-      "value": "Blonde"
+      "value": "Kangol"
     }
   ],
   "properties": {

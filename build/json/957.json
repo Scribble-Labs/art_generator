@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -25,11 +25,11 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Fosace Robe"
+      "value": "Legion Breastplate"
     },
     {
       "trait_type": "Head",
-      "value": "Ski Mask"
+      "value": "Valkyrie"
     }
   ],
   "properties": {

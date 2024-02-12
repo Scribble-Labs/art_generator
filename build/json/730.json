@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Stoned"
+      "value": "Simian Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Desert Camo ACU"
+      "value": "Bulletproof Vest"
     },
     {
       "trait_type": "Head",
-      "value": "Gangster Hat"
+      "value": "Legion Helmet"
     }
   ],
   "properties": {

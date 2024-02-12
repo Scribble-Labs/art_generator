@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Doom"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot Keep"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Happy"
+      "value": "Orc White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Florida Man"
+      "value": "Artist Overalls"
     },
     {
       "trait_type": "Head",
-      "value": "Oni Mask"
+      "value": "Newsboy"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Doom"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Angel"
+      "value": "Simian White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Black Suit"
+      "value": "Steampunk Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Barbarian Helmet"
+      "value": "Hadoken"
     }
   ],
   "properties": {

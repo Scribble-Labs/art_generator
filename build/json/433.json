@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Devil"
+      "value": "Dark Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Solana Jersey"
+      "value": "Hypebeast Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "Blonde"
+      "value": "Golden Mane"
     }
   ],
   "properties": {

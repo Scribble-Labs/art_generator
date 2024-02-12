@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Black"
+      "value": "Undead Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mando Armor"
+      "value": "Bulletproof Vest"
     },
     {
       "trait_type": "Head",
-      "value": "Golden Mane"
+      "value": "Newsboy"
     }
   ],
   "properties": {

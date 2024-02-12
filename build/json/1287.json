@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Starry Night"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot City"
+      "value": "None"
     },
     {
       "trait_type": "Species",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Angry"
+      "value": "Orc Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mage Cloak"
+      "value": "Florida Man"
     },
     {
       "trait_type": "Head",
-      "value": "Hipster Red"
+      "value": "Brunet"
     }
   ],
   "properties": {

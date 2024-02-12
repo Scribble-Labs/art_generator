@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Happy"
+      "value": "Light White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Sailor"
+      "value": "First Knight"
     },
     {
       "trait_type": "Head",
-      "value": "Sombrero"
+      "value": "Undercut"
     }
   ],
   "properties": {

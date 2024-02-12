@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian White"
+      "value": "Light Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mage Cloak"
+      "value": "Royal Officer"
     },
     {
       "trait_type": "Head",
-      "value": "Clean Fade"
+      "value": "Newsboy"
     }
   ],
   "properties": {

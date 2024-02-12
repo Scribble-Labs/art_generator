@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Starry Night"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Happy"
+      "value": "Light Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Black Suit"
+      "value": "Buccaneer Coat"
     },
     {
       "trait_type": "Head",
-      "value": "Clean Fade"
+      "value": "Kangol"
     }
   ],
   "properties": {

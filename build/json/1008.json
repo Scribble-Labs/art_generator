@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Light White"
+      "value": "Undead White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Royal Officer"
+      "value": "Sailor"
     },
     {
       "trait_type": "Head",
-      "value": "Black Bandana"
+      "value": "Barbarian Helmet"
     }
   ],
   "properties": {

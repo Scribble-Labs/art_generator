@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot City"
+      "value": "Necrothorns Abyss"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Surprised"
+      "value": "Simian Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "ReBoot Jockey Jacket"
+      "value": "Artist Overalls"
     },
     {
       "trait_type": "Head",
-      "value": "Ski Mask"
+      "value": "Tactical Helmet"
     }
   ],
   "properties": {

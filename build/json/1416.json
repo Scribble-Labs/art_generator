@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "ReBoot Theme Park"
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Black"
+      "value": "Simian Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mage Cloak"
+      "value": "Bulletproof Vest"
     },
     {
       "trait_type": "Head",
-      "value": "Vipers"
+      "value": "BK Hat"
     }
   ],
   "properties": {

@@ -13,23 +13,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "ReBoot Keep"
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian White"
+      "value": "Light Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Denim Jacket"
+      "value": "Wan Obi Cloak"
     },
     {
       "trait_type": "Head",
-      "value": "Cowboy Hat"
+      "value": "Gangster Hat"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead White"
+      "value": "Light White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Spartan ODU"
+      "value": "Cloud"
     },
     {
       "trait_type": "Head",
-      "value": "Man Bun"
+      "value": "Clean Fade"
     }
   ],
   "properties": {

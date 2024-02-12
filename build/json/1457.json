@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Light Surprised"
+      "value": "Light Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Samurai"
+      "value": "ReBoot Aviator"
     },
     {
       "trait_type": "Head",
-      "value": "Cowboy Hat"
+      "value": "Clean Fade"
     }
   ],
   "properties": {

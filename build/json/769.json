@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -21,7 +21,7 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Angel"
+      "value": "Simian Surprised"
     },
     {
       "trait_type": "Clothing",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "Head",
-      "value": "Sombrero"
+      "value": "First Knight Helm"
     }
   ],
   "properties": {

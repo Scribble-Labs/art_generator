@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Angry"
+      "value": "Dark Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Brown Suit"
+      "value": "Buccaneer Coat"
     },
     {
       "trait_type": "Head",
-      "value": "Buccaneer Cap"
+      "value": "Black Bandana"
     }
   ],
   "properties": {

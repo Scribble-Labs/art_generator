@@ -13,7 +13,7 @@
     },
     {
       "trait_type": "Background",
-      "value": "Necrothorns Abyss"
+      "value": "None"
     },
     {
       "trait_type": "Species",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Angel"
+      "value": "Undead Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Black Suit"
+      "value": "Spartan ODU"
     },
     {
       "trait_type": "Head",
-      "value": "Forest Camo Helmet"
+      "value": "Man Bun"
     }
   ],
   "properties": {

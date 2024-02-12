@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Angry"
+      "value": "Undead Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Samurai"
+      "value": "Wan Obi Cloak"
     },
     {
       "trait_type": "Head",
-      "value": "Blonde"
+      "value": "Dreadlocks"
     }
   ],
   "properties": {

@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
-      "value": "Apocalyptic City"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Stoned"
+      "value": "Simian White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Sailor"
+      "value": "Mage Cloak"
     },
     {
       "trait_type": "Head",
-      "value": "Mage Hat"
+      "value": "Golden Mane"
     }
   ],
   "properties": {

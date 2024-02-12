@@ -13,23 +13,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "Apocalyptic City"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Stoned"
+      "value": "Orc Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Royal Officer"
+      "value": "Nuke Dukem"
     },
     {
       "trait_type": "Head",
-      "value": "Clean Fade"
+      "value": "Tactical Helmet"
     }
   ],
   "properties": {

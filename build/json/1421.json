@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Ethereal Forest"
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Happy"
+      "value": "Undead Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Highborn Knight Armor"
+      "value": "ReBoot Aviator"
     },
     {
       "trait_type": "Head",
-      "value": "Hipster Red"
+      "value": "Man Bun"
     }
   ],
   "properties": {

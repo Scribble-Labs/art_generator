@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Black"
+      "value": "Light Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mando Armor"
+      "value": "Artist Overalls"
     },
     {
       "trait_type": "Head",
-      "value": "Man Bun"
+      "value": "Undercut"
     }
   ],
   "properties": {

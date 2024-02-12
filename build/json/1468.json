@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Apocalyptic City"
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian White"
+      "value": "Dark Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Navy Suit"
+      "value": "Samurai"
     },
     {
       "trait_type": "Head",
-      "value": "Brunet"
+      "value": "Ski Mask"
     }
   ],
   "properties": {

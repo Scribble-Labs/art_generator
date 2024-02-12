@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Stoned"
+      "value": "Orc Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Royal Officer"
+      "value": "Artist Overalls"
     },
     {
       "trait_type": "Head",
-      "value": "Tactical Helmet"
+      "value": "First Knight Helm"
     }
   ],
   "properties": {

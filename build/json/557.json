@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Stoned"
+      "value": "Dark Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cyberpunk Jacket"
+      "value": "ReBoot Aviator"
     },
     {
       "trait_type": "Head",
-      "value": "Blonde"
+      "value": "Tactical Helmet"
     }
   ],
   "properties": {

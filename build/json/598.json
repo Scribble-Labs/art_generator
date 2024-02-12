@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Black"
+      "value": "Orc Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "Samurai"
+      "value": "Forest Camo ACU"
     },
     {
       "trait_type": "Head",
-      "value": "Dreadlocks"
+      "value": "Forest Camo Helmet"
     }
   ],
   "properties": {

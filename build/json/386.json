@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Happy"
+      "value": "Dark Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mage Cloak"
+      "value": "First Knight"
     },
     {
       "trait_type": "Head",
-      "value": "Gun Top"
+      "value": "Brunet"
     }
   ],
   "properties": {

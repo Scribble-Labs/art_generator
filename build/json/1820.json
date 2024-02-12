@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
-      "value": "Ethereal Forest"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Happy"
+      "value": "Orc Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Sailor"
+      "value": "First Knight"
     },
     {
       "trait_type": "Head",
-      "value": "First Knight Helm"
+      "value": "Dreadlocks"
     }
   ],
   "properties": {

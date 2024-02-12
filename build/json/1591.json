@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Angel"
+      "value": "Light Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Trench Coat"
+      "value": "Highborn Knight Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Vipers"
+      "value": "Gangster Hat"
     }
   ],
   "properties": {

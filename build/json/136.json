@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Angry"
+      "value": "Light Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Solana Jersey"
+      "value": "First Knight"
     },
     {
       "trait_type": "Head",
-      "value": "Hipster Blue"
+      "value": "Clean Fade"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Surprised"
+      "value": "Simian Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "First Knight"
+      "value": "Nuke Dukem"
     },
     {
       "trait_type": "Head",
-      "value": "Clean Fade"
+      "value": "Man Bun"
     }
   ],
   "properties": {

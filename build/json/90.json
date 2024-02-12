@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot City"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Stoned"
+      "value": "Light Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Playmakers Onesie"
+      "value": "Legion Breastplate"
     },
     {
       "trait_type": "Head",
-      "value": "No Hat"
+      "value": "Brunet"
     }
   ],
   "properties": {

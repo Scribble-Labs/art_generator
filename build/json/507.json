@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Angel"
+      "value": "Dark White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Black Suit"
+      "value": "Barbarian Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Newsboy"
+      "value": "Gun Top"
     }
   ],
   "properties": {

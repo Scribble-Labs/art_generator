@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Black"
+      "value": "Dark Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "ReBoot Aviator"
+      "value": "Highborn Knight Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Black Bandana"
+      "value": "Hipster Blue"
     }
   ],
   "properties": {

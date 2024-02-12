@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Mushroom Kingdom"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Angel"
+      "value": "Simian Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Denim Jacket"
+      "value": "Solana Jersey"
     },
     {
       "trait_type": "Head",
-      "value": "Clean Fade"
+      "value": "Buccaneer Cap"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Happy"
+      "value": "Dark White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cloud"
+      "value": "Black Suit"
     },
     {
       "trait_type": "Head",
-      "value": "Mage Hat"
+      "value": "Sailor Hat"
     }
   ],
   "properties": {

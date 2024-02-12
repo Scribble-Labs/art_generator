@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -25,11 +25,11 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Nuke Dukem"
+      "value": "Tribal Poncho"
     },
     {
       "trait_type": "Head",
-      "value": "White Bandana"
+      "value": "Buccaneer Cap"
     }
   ],
   "properties": {

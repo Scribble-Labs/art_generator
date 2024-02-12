@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Surprised"
+      "value": "Simian White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Black Suit"
+      "value": "Trench Coat"
     },
     {
       "trait_type": "Head",
-      "value": "Hadoken"
+      "value": "Buccaneer Cap"
     }
   ],
   "properties": {

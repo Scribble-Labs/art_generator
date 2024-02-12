@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Surprised"
+      "value": "Light Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mage Cloak"
+      "value": "Goron Tunic"
     },
     {
       "trait_type": "Head",
-      "value": "Undercut"
+      "value": "Buccaneer Cap"
     }
   ],
   "properties": {

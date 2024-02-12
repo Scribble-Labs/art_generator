@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Stoned"
+      "value": "Undead Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Black Suit"
+      "value": "Brown Suit"
     },
     {
       "trait_type": "Head",
-      "value": "Hipster Red"
+      "value": "Hadoken"
     }
   ],
   "properties": {

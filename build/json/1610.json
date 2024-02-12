@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark White"
+      "value": "Simian Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Royal Officer"
+      "value": "Denim Jacket"
     },
     {
       "trait_type": "Head",
-      "value": "Black Bandana"
+      "value": "Vipers"
     }
   ],
   "properties": {

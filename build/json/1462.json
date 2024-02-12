@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Mushroom Kingdom"
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Devil"
+      "value": "Orc Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Artist Overalls"
+      "value": "Spartan ODU"
     },
     {
       "trait_type": "Head",
-      "value": "Dreadlocks"
+      "value": "Gray Cowboy Hat"
     }
   ],
   "properties": {

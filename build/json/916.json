@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Happy"
+      "value": "Simian Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Florida Man"
+      "value": "Mando Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Ski Mask"
+      "value": "Gun Top"
     }
   ],
   "properties": {

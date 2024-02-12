@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Angel"
+      "value": "Dark Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "Artist Overalls"
+      "value": "Royal Officer"
     },
     {
       "trait_type": "Head",
-      "value": "Clean Fade"
+      "value": "Undercut"
     }
   ],
   "properties": {

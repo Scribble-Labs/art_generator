@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot Keep"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Angel"
+      "value": "Simian Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Trench Coat"
+      "value": "ReBoot Aviator"
     },
     {
       "trait_type": "Head",
-      "value": "Cowboy Hat"
+      "value": "Hadoken"
     }
   ],
   "properties": {

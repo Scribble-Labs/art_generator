@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot Theme Park"
+      "value": "Necrothorns Abyss"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Angry"
+      "value": "Simian Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Black Suit"
+      "value": "Royal Officer"
     },
     {
       "trait_type": "Head",
-      "value": "Sombrero"
+      "value": "Black Bandana"
     }
   ],
   "properties": {

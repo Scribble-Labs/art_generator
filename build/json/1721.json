@@ -13,23 +13,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "ReBoot Theme Park"
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead White"
+      "value": "Orc Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "First Knight"
+      "value": "ReBoot Aviator"
     },
     {
       "trait_type": "Head",
-      "value": "Buccaneer Cap"
+      "value": "Cowboy Hat"
     }
   ],
   "properties": {

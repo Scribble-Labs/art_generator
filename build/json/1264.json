@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Surprised"
+      "value": "Orc Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "Critters Jersey"
+      "value": "Brown Suit"
     },
     {
       "trait_type": "Head",
-      "value": "Buccaneer Cap"
+      "value": "Clean Fade"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Stoned"
+      "value": "Dark White"
     },
     {
       "trait_type": "Clothing",
-      "value": "ReBoot Aviator"
+      "value": "Steampunk Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Black Bandana"
+      "value": "Cowboy Hat"
     }
   ],
   "properties": {

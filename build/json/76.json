@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Stoned"
+      "value": "Undead Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "BK Shirt"
+      "value": "Legion Breastplate"
     },
     {
       "trait_type": "Head",
-      "value": "First Knight Helm"
+      "value": "Hadoken"
     }
   ],
   "properties": {

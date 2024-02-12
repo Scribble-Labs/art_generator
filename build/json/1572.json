@@ -13,23 +13,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot City"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Black"
+      "value": "Light Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Legion Breastplate"
+      "value": "Florida Man"
     },
     {
       "trait_type": "Head",
-      "value": "Man Bun"
+      "value": "First Knight Helm"
     }
   ],
   "properties": {

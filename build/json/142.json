@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Doom"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Stoned"
+      "value": "Simian Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Florida Man"
+      "value": "Denim Jacket"
     },
     {
       "trait_type": "Head",
-      "value": "Dreadlocks"
+      "value": "ReBoot Trucker"
     }
   ],
   "properties": {

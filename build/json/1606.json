@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Ethereal Forest"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Stoned"
+      "value": "Light Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "MF Jersey"
+      "value": "Legion Breastplate"
     },
     {
       "trait_type": "Head",
-      "value": "No Hat"
+      "value": "Solana Cap"
     }
   ],
   "properties": {

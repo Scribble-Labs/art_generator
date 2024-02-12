@@ -13,23 +13,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "ReBoot Theme Park"
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Happy"
+      "value": "Simian Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Bulletproof Vest"
+      "value": "Artist Overalls"
     },
     {
       "trait_type": "Head",
-      "value": "First Knight Helm"
+      "value": "Gangster Hat"
     }
   ],
   "properties": {

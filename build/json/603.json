@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Stoned"
+      "value": "Undead Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Brown Suit"
+      "value": "Artist Overalls"
     },
     {
       "trait_type": "Head",
-      "value": "Tactical Helmet"
+      "value": "Buccaneer Cap"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Happy"
+      "value": "Orc Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Samurai"
+      "value": "Buccaneer Coat"
     },
     {
       "trait_type": "Head",
-      "value": "Mage Hat"
+      "value": "Buccaneer Cap"
     }
   ],
   "properties": {

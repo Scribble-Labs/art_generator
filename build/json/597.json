@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead White"
+      "value": "Light Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "MF Jersey"
+      "value": "Steampunk Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Bucket Hat"
+      "value": "Black Bandana"
     }
   ],
   "properties": {

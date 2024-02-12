@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Black"
+      "value": "Undead Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "Trench Coat"
+      "value": "Solana Jersey"
     },
     {
       "trait_type": "Head",
-      "value": "ZAMN"
+      "value": "BK Hat"
     }
   ],
   "properties": {

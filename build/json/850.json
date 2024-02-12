@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot Theme Park"
+      "value": "Ethereal Forest"
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Stoned"
+      "value": "Dark White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Tribal Poncho"
+      "value": "Legion Breastplate"
     },
     {
       "trait_type": "Head",
-      "value": "Brunet"
+      "value": "First Knight Helm"
     }
   ],
   "properties": {

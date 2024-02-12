@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "ReBoot Theme Park"
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Stoned"
+      "value": "Simian Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Trench Coat"
+      "value": "Legion Breastplate"
     },
     {
       "trait_type": "Head",
-      "value": "First Knight Helm"
+      "value": "Gray Cowboy Hat"
     }
   ],
   "properties": {

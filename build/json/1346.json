@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Surprised"
+      "value": "Light Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Black Suit"
+      "value": "Forest Camo ACU"
     },
     {
       "trait_type": "Head",
-      "value": "Legion Helmet"
+      "value": "First Knight Helm"
     }
   ],
   "properties": {

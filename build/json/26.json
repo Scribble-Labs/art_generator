@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
-      "value": "Mushroom Kingdom"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Angry"
+      "value": "Orc White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Solana Jersey"
+      "value": "Florida Man"
     },
     {
       "trait_type": "Head",
-      "value": "First Knight Helm"
+      "value": "The King"
     }
   ],
   "properties": {

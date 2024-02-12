@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Light White"
+      "value": "Dark Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "Denim Jacket"
+      "value": "Cult Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "Ski Mask"
+      "value": "Man Bun"
     }
   ],
   "properties": {

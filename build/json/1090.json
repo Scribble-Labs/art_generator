@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -25,11 +25,11 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Goron Tunic"
+      "value": "Buccaneer Coat"
     },
     {
       "trait_type": "Head",
-      "value": "Bucket Hat"
+      "value": "First Knight Helm"
     }
   ],
   "properties": {

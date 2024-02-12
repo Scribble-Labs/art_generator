@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Angry"
+      "value": "Orc White"
     },
     {
       "trait_type": "Clothing",
-      "value": "First Knight"
+      "value": "Barbarian Armor"
     },
     {
       "trait_type": "Head",
-      "value": "ReBoot Trucker"
+      "value": "Tactical Helmet"
     }
   ],
   "properties": {

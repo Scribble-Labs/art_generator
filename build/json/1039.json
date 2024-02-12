@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Mushroom Kingdom"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Angry"
+      "value": "Simian Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mage Cloak"
+      "value": "Tribal Poncho"
     },
     {
       "trait_type": "Head",
-      "value": "Cowboy Hat"
+      "value": "White Bandana"
     }
   ],
   "properties": {

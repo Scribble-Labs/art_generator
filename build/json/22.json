@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Stoned"
+      "value": "Dark White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mage Cloak"
+      "value": "Spartan ODU"
     },
     {
       "trait_type": "Head",
-      "value": "Brunet"
+      "value": "Hipster Red"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Devil"
+      "value": "Simian White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Black Suit"
+      "value": "ReBoot Aviator"
     },
     {
       "trait_type": "Head",
-      "value": "Legion Helmet"
+      "value": "Blonde"
     }
   ],
   "properties": {

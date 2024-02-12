@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Mushroom Kingdom"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Surprised"
+      "value": "Simian White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Spartan ODU"
+      "value": "Brown Suit"
     },
     {
       "trait_type": "Head",
-      "value": "Hadoken"
+      "value": "Tactical Helmet"
     }
   ],
   "properties": {

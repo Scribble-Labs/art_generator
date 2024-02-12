@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Angel"
+      "value": "Simian Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Denim Jacket"
+      "value": "Steampunk Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Man Bun"
+      "value": "Kangol"
     }
   ],
   "properties": {

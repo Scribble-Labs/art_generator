@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Angel"
+      "value": "Dark Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Critters Jersey"
+      "value": "Trench Coat"
     },
     {
       "trait_type": "Head",
-      "value": "Hipster Blue"
+      "value": "Mage Hat"
     }
   ],
   "properties": {

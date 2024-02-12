@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot Keep"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Stoned"
+      "value": "Orc Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Critters Jersey"
+      "value": "Brown Suit"
     },
     {
       "trait_type": "Head",
-      "value": "Cowboy Hat"
+      "value": "Bucket Hat"
     }
   ],
   "properties": {

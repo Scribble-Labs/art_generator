@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Happy"
+      "value": "Orc Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Barbarian Armor"
+      "value": "Forest Camo ACU"
     },
     {
       "trait_type": "Head",
-      "value": "Dreadlocks"
+      "value": "Golden Mane"
     }
   ],
   "properties": {

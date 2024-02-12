@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -25,11 +25,11 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Trench Coat"
+      "value": "BK Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "ReBoot Trucker"
+      "value": "Gangster Hat"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Doom"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Angel"
+      "value": "Dark Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "First Knight"
+      "value": "Trench Coat"
     },
     {
       "trait_type": "Head",
-      "value": "Undercut"
+      "value": "Gray Cowboy Hat"
     }
   ],
   "properties": {

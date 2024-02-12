@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Angel"
+      "value": "Simian Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Clayno Onesie"
+      "value": "Sailor"
     },
     {
       "trait_type": "Head",
-      "value": "No Hat"
+      "value": "Dreadlocks"
     }
   ],
   "properties": {

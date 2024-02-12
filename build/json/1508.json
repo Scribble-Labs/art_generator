@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
-      "value": "Mushroom Kingdom"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead White"
+      "value": "Simian Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Navy Suit"
+      "value": "BK Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "Kangol"
+      "value": "Oni Mask"
     }
   ],
   "properties": {

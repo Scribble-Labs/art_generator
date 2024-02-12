@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot City"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Surprised"
+      "value": "Simian Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Critters Jersey"
+      "value": "Sailor"
     },
     {
       "trait_type": "Head",
-      "value": "Gangster Hat"
+      "value": "Hipster Blue"
     }
   ],
   "properties": {

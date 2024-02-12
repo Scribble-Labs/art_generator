@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
-      "value": "Ethereal Forest"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Happy"
+      "value": "Light White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Black Suit"
+      "value": "Barbarian Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Buccaneer Cap"
+      "value": "Hipster Red"
     }
   ],
   "properties": {

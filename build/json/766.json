@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Angel"
+      "value": "Light Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Denim Jacket"
+      "value": "Royal Officer"
     },
     {
       "trait_type": "Head",
-      "value": "Blonde"
+      "value": "Gray Cowboy Hat"
     }
   ],
   "properties": {

@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot Keep"
+      "value": "Necrothorns Abyss"
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Black"
+      "value": "Light Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Spartan ODU"
+      "value": "ReBoot Aviator"
     },
     {
       "trait_type": "Head",
-      "value": "Cowboy Hat"
+      "value": "Dreadlocks"
     }
   ],
   "properties": {

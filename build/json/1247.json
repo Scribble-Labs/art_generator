@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
@@ -21,7 +21,7 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Black"
+      "value": "Dark Angry"
     },
     {
       "trait_type": "Clothing",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "Head",
-      "value": "Legion Helmet"
+      "value": "Hipster Red"
     }
   ],
   "properties": {

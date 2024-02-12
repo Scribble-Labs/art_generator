@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Angry"
+      "value": "Simian White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mage Cloak"
+      "value": "Cyberpunk Jacket"
     },
     {
       "trait_type": "Head",
-      "value": "BK Hat"
+      "value": "Undercut"
     }
   ],
   "properties": {

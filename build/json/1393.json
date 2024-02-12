@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Happy"
+      "value": "Light Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mage Cloak"
+      "value": "First Knight"
     },
     {
       "trait_type": "Head",
-      "value": "Newsboy"
+      "value": "Gun Top"
     }
   ],
   "properties": {

@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Stoned"
+      "value": "Light Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mage Cloak"
+      "value": "Samurai"
     },
     {
       "trait_type": "Head",
-      "value": "Bucket Hat"
+      "value": "Legion Helmet"
     }
   ],
   "properties": {

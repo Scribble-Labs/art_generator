@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Necrothorns Abyss"
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Black"
+      "value": "Simian Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Samurai"
+      "value": "Barbarian Armor"
     },
     {
       "trait_type": "Head",
-      "value": "The King"
+      "value": "Golden Mane"
     }
   ],
   "properties": {

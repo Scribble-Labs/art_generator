@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Surprised"
+      "value": "Dark Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cyberpunk Jacket"
+      "value": "Steampunk Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Undercut"
+      "value": "ZAMN"
     }
   ],
   "properties": {

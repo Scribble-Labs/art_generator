@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Surprised"
+      "value": "Light Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Wan Obi Cloak"
+      "value": "Sailor"
     },
     {
       "trait_type": "Head",
-      "value": "Clean Fade"
+      "value": "Hipster Blue"
     }
   ],
   "properties": {

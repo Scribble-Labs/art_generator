@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc White"
+      "value": "Dark Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Solana Jersey"
+      "value": "ReBoot Aviator"
     },
     {
       "trait_type": "Head",
-      "value": "Gun Top"
+      "value": "Blonde"
     }
   ],
   "properties": {

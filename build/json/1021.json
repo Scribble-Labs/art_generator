@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Black"
+      "value": "Orc Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Steampunk Armor"
+      "value": "Spartan ODU"
     },
     {
       "trait_type": "Head",
-      "value": "Hipster Blue"
+      "value": "Tactical Helmet"
     }
   ],
   "properties": {

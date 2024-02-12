@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Surprised"
+      "value": "Dark Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Navy Suit"
+      "value": "Tribal Poncho"
     },
     {
       "trait_type": "Head",
-      "value": "Hadoken"
+      "value": "Hipster Red"
     }
   ],
   "properties": {

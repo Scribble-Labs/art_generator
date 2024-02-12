@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Apocalyptic City"
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Surprised"
+      "value": "Light Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Trench Coat"
+      "value": "Royal Officer"
     },
     {
       "trait_type": "Head",
-      "value": "No Hat"
+      "value": "Gun Top"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Angry"
+      "value": "Dark Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Black Suit"
+      "value": "Artist Overalls"
     },
     {
       "trait_type": "Head",
-      "value": "Sombrero"
+      "value": "First Knight Helm"
     }
   ],
   "properties": {

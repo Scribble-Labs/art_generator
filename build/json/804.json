@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
-      "value": "Ethereal Forest"
+      "value": "Necrothorns Abyss"
     },
     {
       "trait_type": "Species",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Simian White"
+      "value": "Simian Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Black Suit"
+      "value": "Denim Jacket"
     },
     {
       "trait_type": "Head",
-      "value": "Hadoken"
+      "value": "Sailor Hat"
     }
   ],
   "properties": {

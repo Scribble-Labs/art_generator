@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Surprised"
+      "value": "Simian Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Sailor"
+      "value": "Steampunk Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Kangol"
+      "value": "Gray Cowboy Hat"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Doom"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Light Stoned"
+      "value": "Light Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Barbarian Armor"
+      "value": "Hypebeast Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "No Hat"
+      "value": "BK Hat"
     }
   ],
   "properties": {

@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Doom"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
-      "value": "Mushroom Kingdom"
+      "value": "ReBoot City"
     },
     {
       "trait_type": "Species",
@@ -21,7 +21,7 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Happy"
+      "value": "Undead Stoned"
     },
     {
       "trait_type": "Clothing",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "Head",
-      "value": "Legion Helmet"
+      "value": "Forest Camo Helmet"
     }
   ],
   "properties": {

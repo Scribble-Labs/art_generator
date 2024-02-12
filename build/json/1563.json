@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -25,11 +25,11 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Cloud"
+      "value": "Legion Breastplate"
     },
     {
       "trait_type": "Head",
-      "value": "White Bandana"
+      "value": "Tactical Helmet"
     }
   ],
   "properties": {

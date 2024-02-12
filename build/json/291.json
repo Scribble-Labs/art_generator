@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
-      "value": "Apocalyptic City"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Happy"
+      "value": "Dark Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Barbarian Armor"
+      "value": "First Knight"
     },
     {
       "trait_type": "Head",
-      "value": "Hipster Red"
+      "value": "White Bandana"
     }
   ],
   "properties": {

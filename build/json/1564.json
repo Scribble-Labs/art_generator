@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Stoned"
+      "value": "Undead Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Denim Jacket"
+      "value": "Nuke Dukem"
     },
     {
       "trait_type": "Head",
-      "value": "Oni Mask"
+      "value": "Clean Fade"
     }
   ],
   "properties": {

@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
-      "value": "Necrothorns Abyss"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Angel"
+      "value": "Light White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Spartan ODU"
+      "value": "Mage Cloak"
     },
     {
       "trait_type": "Head",
-      "value": "First Knight Helm"
+      "value": "Bucket Hat"
     }
   ],
   "properties": {

@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "ReBoot Theme Park"
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Black"
+      "value": "Orc Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cloud"
+      "value": "Brown Suit"
     },
     {
       "trait_type": "Head",
-      "value": "Solana Cap"
+      "value": "Black Bandana"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Surprised"
+      "value": "Light Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Goron Tunic"
+      "value": "Royal Officer"
     },
     {
       "trait_type": "Head",
-      "value": "Kangol"
+      "value": "Ski Mask"
     }
   ],
   "properties": {

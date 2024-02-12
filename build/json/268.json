@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Doom"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "ReBoot Theme Park"
     },
     {
       "trait_type": "Species",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Light Devil"
+      "value": "Light Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cloud"
+      "value": "ReBoot Aviator"
     },
     {
       "trait_type": "Head",
-      "value": "Barbarian Helmet"
+      "value": "The King"
     }
   ],
   "properties": {

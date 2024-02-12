@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
-      "value": "Mushroom Kingdom"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Happy"
+      "value": "Dark White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Florida Man"
+      "value": "Cult Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "Solana Cap"
+      "value": "Tactical Helmet"
     }
   ],
   "properties": {

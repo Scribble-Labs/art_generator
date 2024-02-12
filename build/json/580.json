@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Angry"
+      "value": "Orc Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Spartan ODU"
+      "value": "Steampunk Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Mage Hat"
+      "value": "Cowboy Hat"
     }
   ],
   "properties": {

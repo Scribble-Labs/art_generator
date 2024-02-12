@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
-      "value": "Ethereal Forest"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Stoned"
+      "value": "Undead Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Goron Tunic"
+      "value": "Mage Cloak"
     },
     {
       "trait_type": "Head",
-      "value": "Tactical Helmet"
+      "value": "Ski Mask"
     }
   ],
   "properties": {

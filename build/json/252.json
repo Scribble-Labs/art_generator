@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Surprised"
+      "value": "Orc White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Critters Jersey"
+      "value": "Cult Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "The King"
+      "value": "Gray Cowboy Hat"
     }
   ],
   "properties": {
