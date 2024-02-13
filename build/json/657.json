@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Devil"
+      "value": "Dark Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Brown Suit"
+      "value": "Buccaneer Coat"
     },
     {
       "trait_type": "Head",
-      "value": "Sombrero"
+      "value": "Tactical Helmet"
     }
   ],
   "properties": {

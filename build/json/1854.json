@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Happy"
+      "value": "Dark Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Denim Jacket"
+      "value": "Navy Suit"
     },
     {
       "trait_type": "Head",
-      "value": "Blonde"
+      "value": "Sailor Hat"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Doom"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Angry"
+      "value": "Orc Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Artist Overalls"
+      "value": "Black Suit"
     },
     {
       "trait_type": "Head",
-      "value": "Hadoken"
+      "value": "Buccaneer Cap"
     }
   ],
   "properties": {

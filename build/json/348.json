@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Angry"
+      "value": "Light Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cloud"
+      "value": "Buccaneer Coat"
     },
     {
       "trait_type": "Head",
-      "value": "Gun Top"
+      "value": "Newsboy"
     }
   ],
   "properties": {

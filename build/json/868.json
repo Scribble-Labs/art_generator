@@ -13,23 +13,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot Keep"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Happy"
+      "value": "Orc Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cyberpunk Jacket"
+      "value": "BK Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "Hipster Blue"
+      "value": "Kangol"
     }
   ],
   "properties": {

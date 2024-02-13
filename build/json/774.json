@@ -13,23 +13,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "Necrothorns Abyss"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Devil"
+      "value": "Undead Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Denim Jacket"
+      "value": "Mage Cloak"
     },
     {
       "trait_type": "Head",
-      "value": "No Hat"
+      "value": "Dreadlocks"
     }
   ],
   "properties": {

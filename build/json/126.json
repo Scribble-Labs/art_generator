@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -25,11 +25,11 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Buccaneer Coat"
+      "value": "Sailor"
     },
     {
       "trait_type": "Head",
-      "value": "Man Bun"
+      "value": "Legion Helmet"
     }
   ],
   "properties": {

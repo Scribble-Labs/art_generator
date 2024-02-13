@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Surprised"
+      "value": "Light Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Critters Jersey"
+      "value": "Mage Cloak"
     },
     {
       "trait_type": "Head",
-      "value": "Clean Fade"
+      "value": "Gun Top"
     }
   ],
   "properties": {

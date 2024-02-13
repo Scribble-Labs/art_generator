@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "ReBoot Keep"
     },
     {
       "trait_type": "Species",
@@ -21,7 +21,7 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Surprised"
+      "value": "Orc Devil"
     },
     {
       "trait_type": "Clothing",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "Head",
-      "value": "Kangol"
+      "value": "Cowboy Hat"
     }
   ],
   "properties": {

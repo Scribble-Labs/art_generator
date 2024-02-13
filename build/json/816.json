@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Doom"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
-      "value": "Necrothorns Abyss"
+      "value": "None"
     },
     {
       "trait_type": "Species",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Surprised"
+      "value": "Simian Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Brown Suit"
+      "value": "Nuke Dukem"
     },
     {
       "trait_type": "Head",
-      "value": "Hipster Red"
+      "value": "Oni Mask"
     }
   ],
   "properties": {

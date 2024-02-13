@@ -13,23 +13,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "ReBoot Theme Park"
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Black"
+      "value": "Dark Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "Steampunk Armor"
+      "value": "Sailor"
     },
     {
       "trait_type": "Head",
-      "value": "Cowboy Hat"
+      "value": "ZAMN"
     }
   ],
   "properties": {

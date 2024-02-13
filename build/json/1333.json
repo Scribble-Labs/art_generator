@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Devil"
+      "value": "Orc Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Trench Coat"
+      "value": "Buccaneer Coat"
     },
     {
       "trait_type": "Head",
-      "value": "Man Bun"
+      "value": "Blonde"
     }
   ],
   "properties": {

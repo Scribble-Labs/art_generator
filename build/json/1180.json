@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Surprised"
+      "value": "Orc White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cloud"
+      "value": "Nuke Dukem"
     },
     {
       "trait_type": "Head",
-      "value": "Golden Mane"
+      "value": "Buccaneer Cap"
     }
   ],
   "properties": {

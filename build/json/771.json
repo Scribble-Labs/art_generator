@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "ReBoot Keep"
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Devil"
+      "value": "Undead Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "BK Shirt"
+      "value": "Artist Overalls"
     },
     {
       "trait_type": "Head",
-      "value": "Oni Mask"
+      "value": "Solana Cap"
     }
   ],
   "properties": {

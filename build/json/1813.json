@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Starry Night"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Happy"
+      "value": "Dark Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Critters Jersey"
+      "value": "Sailor"
     },
     {
       "trait_type": "Head",
-      "value": "Hipster Red"
+      "value": "Forest Camo Helmet"
     }
   ],
   "properties": {

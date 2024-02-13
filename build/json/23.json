@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -21,11 +21,11 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Dark White"
+      "value": "Dark Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Bulletproof Vest"
+      "value": "Cloud"
     },
     {
       "trait_type": "Head",

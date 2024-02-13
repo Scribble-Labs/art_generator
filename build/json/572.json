@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead White"
+      "value": "Orc Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Denim Jacket"
+      "value": "Tribal Poncho"
     },
     {
       "trait_type": "Head",
-      "value": "First Knight Helm"
+      "value": "Kangol"
     }
   ],
   "properties": {

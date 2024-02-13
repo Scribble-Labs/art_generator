@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Surprised"
+      "value": "Light Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Goron Tunic"
+      "value": "ReBoot Aviator"
     },
     {
       "trait_type": "Head",
-      "value": "Barbarian Helmet"
+      "value": "Mage Hat"
     }
   ],
   "properties": {

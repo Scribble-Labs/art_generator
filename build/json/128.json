@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot City"
+      "value": "Mushroom Kingdom"
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Devil"
+      "value": "Simian Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "First Knight"
+      "value": "Nuke Dukem"
     },
     {
       "trait_type": "Head",
-      "value": "Hipster Red"
+      "value": "Brunet"
     }
   ],
   "properties": {

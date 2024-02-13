@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Black"
+      "value": "Undead Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Trench Coat"
+      "value": "ReBoot Hoodie"
     },
     {
       "trait_type": "Head",
-      "value": "Sombrero"
+      "value": "No Hat"
     }
   ],
   "properties": {

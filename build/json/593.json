@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
-      "value": "Ethereal Forest"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Happy"
+      "value": "Orc Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Sailor"
+      "value": "Goron Tunic"
     },
     {
       "trait_type": "Head",
-      "value": "Chartist"
+      "value": "Clean Fade"
     }
   ],
   "properties": {

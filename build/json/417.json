@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot City"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Black"
+      "value": "Simian Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Royal Officer"
+      "value": "Bulletproof Vest"
     },
     {
       "trait_type": "Head",
-      "value": "Clean Fade"
+      "value": "Valkyrie"
     }
   ],
   "properties": {

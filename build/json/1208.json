@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Surprised"
+      "value": "Simian Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Samurai"
+      "value": "Royal Officer"
     },
     {
       "trait_type": "Head",
-      "value": "ReBoot Trucker"
+      "value": "First Knight Helm"
     }
   ],
   "properties": {

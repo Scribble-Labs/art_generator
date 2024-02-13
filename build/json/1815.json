@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
-      "value": "Necrothorns Abyss"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark White"
+      "value": "Light Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Florida Man"
+      "value": "Steampunk Armor"
     },
     {
       "trait_type": "Head",
-      "value": "No Hat"
+      "value": "Kangol"
     }
   ],
   "properties": {

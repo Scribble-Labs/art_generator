@@ -13,23 +13,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "Ethereal Forest"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Light White"
+      "value": "Orc Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Black Suit"
+      "value": "Solana Jersey"
     },
     {
       "trait_type": "Head",
-      "value": "Cowboy Hat"
+      "value": "Hadoken"
     }
   ],
   "properties": {

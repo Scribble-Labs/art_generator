@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Light Angel"
+      "value": "Light White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Spartan ODU"
+      "value": "First Knight"
     },
     {
       "trait_type": "Head",
-      "value": "Barbarian Helmet"
+      "value": "Golden Mane"
     }
   ],
   "properties": {

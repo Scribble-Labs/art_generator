@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -25,11 +25,11 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Bulletproof Vest"
+      "value": "Navy Suit"
     },
     {
       "trait_type": "Head",
-      "value": "First Knight Helm"
+      "value": "Tactical Helmet"
     }
   ],
   "properties": {

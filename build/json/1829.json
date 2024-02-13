@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Starry Night"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "ReBoot Keep"
     },
     {
       "trait_type": "Species",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Black"
+      "value": "Orc Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "First Knight"
+      "value": "ReBoot Aviator"
     },
     {
       "trait_type": "Head",
-      "value": "Cowboy Hat"
+      "value": "Hipster Blue"
     }
   ],
   "properties": {

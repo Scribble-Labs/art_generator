@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Starry Night"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Surprised"
+      "value": "Light Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Fosace Robe"
+      "value": "Royal Officer"
     },
     {
       "trait_type": "Head",
-      "value": "No Hat"
+      "value": "Gangster Hat"
     }
   ],
   "properties": {

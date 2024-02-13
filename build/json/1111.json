@@ -9,23 +9,23 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "ReBoot Keep"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Stoned"
+      "value": "Simian Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mando Armor"
+      "value": "Mage Cloak"
     },
     {
       "trait_type": "Head",

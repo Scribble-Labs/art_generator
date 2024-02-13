@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot City"
+      "value": "None"
     },
     {
       "trait_type": "Species",
@@ -25,11 +25,11 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Denim Jacket"
+      "value": "Goron Tunic"
     },
     {
       "trait_type": "Head",
-      "value": "Solana Cap"
+      "value": "Vipers"
     }
   ],
   "properties": {

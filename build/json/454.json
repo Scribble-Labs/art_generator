@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Happy"
+      "value": "Dark Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cloud"
+      "value": "Sailor"
     },
     {
       "trait_type": "Head",
-      "value": "Tactical Helmet"
+      "value": "Cowboy Hat"
     }
   ],
   "properties": {

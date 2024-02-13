@@ -13,23 +13,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "Apocalyptic City"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark White"
+      "value": "Light Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Hypebeast Shirt"
+      "value": "Artist Overalls"
     },
     {
       "trait_type": "Head",
-      "value": "Newsboy"
+      "value": "Solana Cap"
     }
   ],
   "properties": {

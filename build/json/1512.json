@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Surprised"
+      "value": "Orc White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Spartan ODU"
+      "value": "Cult Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "Mage Hat"
+      "value": "Buccaneer Cap"
     }
   ],
   "properties": {

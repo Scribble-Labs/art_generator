@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "ReBoot Theme Park"
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Surprised"
+      "value": "Light White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mage Cloak"
+      "value": "Black Suit"
     },
     {
       "trait_type": "Head",
-      "value": "Sailor Hat"
+      "value": "Bucket Hat"
     }
   ],
   "properties": {

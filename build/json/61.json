@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Surprised"
+      "value": "Orc Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cloud"
+      "value": "Brown Suit"
     },
     {
       "trait_type": "Head",
-      "value": "Sombrero"
+      "value": "Gray Cowboy Hat"
     }
   ],
   "properties": {

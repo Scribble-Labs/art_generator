@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Angel"
+      "value": "Undead Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mage Cloak"
+      "value": "Barbarian Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Mage Hat"
+      "value": "Clean Fade"
     }
   ],
   "properties": {

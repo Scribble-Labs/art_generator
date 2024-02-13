@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Black"
+      "value": "Simian White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cloud"
+      "value": "ReBoot Aviator"
     },
     {
       "trait_type": "Head",
-      "value": "Bucket Hat"
+      "value": "Cowboy Hat"
     }
   ],
   "properties": {

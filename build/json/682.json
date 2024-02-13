@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Black"
+      "value": "Dark Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Brown Suit"
+      "value": "Sailor"
     },
     {
       "trait_type": "Head",
-      "value": "ReBoot Trucker"
+      "value": "Valkyrie"
     }
   ],
   "properties": {

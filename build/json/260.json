@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Black"
+      "value": "Orc Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Critters Jersey"
+      "value": "Navy Suit"
     },
     {
       "trait_type": "Head",
-      "value": "Newsboy"
+      "value": "Hipster Red"
     }
   ],
   "properties": {

@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Necrothorns Abyss"
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Happy"
+      "value": "Light Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Trench Coat"
+      "value": "Cult Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "Sailor Hat"
+      "value": "ReBoot Trucker"
     }
   ],
   "properties": {

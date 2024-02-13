@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Angry"
+      "value": "Orc Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cloud"
+      "value": "Mando Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Buccaneer Cap"
+      "value": "Legion Helmet"
     }
   ],
   "properties": {

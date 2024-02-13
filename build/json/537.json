@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian White"
+      "value": "Dark Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Solana Jersey"
+      "value": "BK Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "ReBoot Trucker"
+      "value": "Mage Hat"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Surprised"
+      "value": "Orc Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Artist Overalls"
+      "value": "Sailor"
     },
     {
       "trait_type": "Head",
-      "value": "Sombrero"
+      "value": "Tactical Helmet"
     }
   ],
   "properties": {

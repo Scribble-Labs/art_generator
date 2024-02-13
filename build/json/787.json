@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Light Black"
+      "value": "Light Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Samurai"
+      "value": "Forest Camo ACU"
     },
     {
       "trait_type": "Head",
-      "value": "Cowboy Hat"
+      "value": "Hipster Red"
     }
   ],
   "properties": {

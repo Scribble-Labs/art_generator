@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Light Stoned"
+      "value": "Light Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Critters Jersey"
+      "value": "Fosace Robe"
     },
     {
       "trait_type": "Head",
-      "value": "Tactical Helmet"
+      "value": "Bucket Hat"
     }
   ],
   "properties": {

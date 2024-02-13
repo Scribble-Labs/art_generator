@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Doom"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Angry"
+      "value": "Undead White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Trench Coat"
+      "value": "Florida Man"
     },
     {
       "trait_type": "Head",
-      "value": "Buccaneer Cap"
+      "value": "Hipster Blue"
     }
   ],
   "properties": {

@@ -13,23 +13,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot City"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Angry"
+      "value": "Dark Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Critters Jersey"
+      "value": "Cult Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "Barbarian Helmet"
+      "value": "Mage Hat"
     }
   ],
   "properties": {

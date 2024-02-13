@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Doom"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Stoned"
+      "value": "Light Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Sailor"
+      "value": "Cloud"
     },
     {
       "trait_type": "Head",
-      "value": "No Hat"
+      "value": "Blonde"
     }
   ],
   "properties": {

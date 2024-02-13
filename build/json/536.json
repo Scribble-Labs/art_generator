@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Black"
+      "value": "Dark Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Sailor"
+      "value": "Black Suit"
     },
     {
       "trait_type": "Head",
-      "value": "Hipster Blue"
+      "value": "First Knight Helm"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Happy"
+      "value": "Orc Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Navy Suit"
+      "value": "Buccaneer Coat"
     },
     {
       "trait_type": "Head",
-      "value": "Tactical Helmet"
+      "value": "Hadoken"
     }
   ],
   "properties": {

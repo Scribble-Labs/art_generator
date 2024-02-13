@@ -13,23 +13,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot Theme Park"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Stoned"
+      "value": "Simian Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mando Armor"
+      "value": "Royal Officer"
     },
     {
       "trait_type": "Head",
-      "value": "Valkyrie"
+      "value": "Tactical Helmet"
     }
   ],
   "properties": {

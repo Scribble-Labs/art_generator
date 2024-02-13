@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Surprised"
+      "value": "Simian Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Fosace Robe"
+      "value": "First Knight"
     },
     {
       "trait_type": "Head",
-      "value": "White Bandana"
+      "value": "Legion Helmet"
     }
   ],
   "properties": {

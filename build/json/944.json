@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Happy"
+      "value": "Dark Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Samurai"
+      "value": "Buccaneer Coat"
     },
     {
       "trait_type": "Head",
-      "value": "Tactical Helmet"
+      "value": "Bucket Hat"
     }
   ],
   "properties": {

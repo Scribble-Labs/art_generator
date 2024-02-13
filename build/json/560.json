@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -25,11 +25,11 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Steampunk Armor"
+      "value": "Bulletproof Vest"
     },
     {
       "trait_type": "Head",
-      "value": "ZAMN"
+      "value": "Gangster Hat"
     }
   ],
   "properties": {

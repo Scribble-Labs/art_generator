@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Happy"
+      "value": "Dark Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Solana Jersey"
+      "value": "Cloud"
     },
     {
       "trait_type": "Head",
-      "value": "Black Bandana"
+      "value": "Forest Camo Helmet"
     }
   ],
   "properties": {

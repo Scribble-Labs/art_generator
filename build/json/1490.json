@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Happy"
+      "value": "Simian Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Highborn Knight Armor"
+      "value": "Mando Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Man Bun"
+      "value": "Valkyrie"
     }
   ],
   "properties": {

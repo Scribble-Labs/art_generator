@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Light Stoned"
+      "value": "Light Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Royal Officer"
+      "value": "Cyberpunk Jacket"
     },
     {
       "trait_type": "Head",
-      "value": "Solana Cap"
+      "value": "Newsboy"
     }
   ],
   "properties": {

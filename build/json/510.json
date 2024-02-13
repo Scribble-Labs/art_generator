@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Black"
+      "value": "Orc Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Denim Jacket"
+      "value": "Steampunk Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Valkyrie"
+      "value": "Bucket Hat"
     }
   ],
   "properties": {

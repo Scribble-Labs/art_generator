@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Black"
+      "value": "Light Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Nuke Dukem"
+      "value": "ReBoot Hoodie"
     },
     {
       "trait_type": "Head",
-      "value": "Newsboy"
+      "value": "No Hat"
     }
   ],
   "properties": {

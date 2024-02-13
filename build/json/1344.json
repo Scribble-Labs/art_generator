@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot Theme Park"
+      "value": "None"
     },
     {
       "trait_type": "Species",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Dark White"
+      "value": "Dark Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Tribal Poncho"
+      "value": "ReBoot Aviator"
     },
     {
       "trait_type": "Head",
-      "value": "Legion Helmet"
+      "value": "Brunet"
     }
   ],
   "properties": {

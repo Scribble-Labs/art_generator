@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
-      "value": "Ethereal Forest"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Happy"
+      "value": "Dark Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Artist Overalls"
+      "value": "Spartan ODU"
     },
     {
       "trait_type": "Head",
-      "value": "Cowboy Hat"
+      "value": "Legion Helmet"
     }
   ],
   "properties": {

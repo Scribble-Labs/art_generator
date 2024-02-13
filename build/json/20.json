@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Angel"
+      "value": "Undead Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Highborn Knight Armor"
+      "value": "Bulletproof Vest"
     },
     {
       "trait_type": "Head",
-      "value": "Undercut"
+      "value": "Tactical Helmet"
     }
   ],
   "properties": {

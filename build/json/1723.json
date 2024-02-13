@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Starry Night"
     },
     {
       "trait_type": "Background",
@@ -25,11 +25,11 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Solana Jersey"
+      "value": "Spartan ODU"
     },
     {
       "trait_type": "Head",
-      "value": "Barbarian Helmet"
+      "value": "Hadoken"
     }
   ],
   "properties": {

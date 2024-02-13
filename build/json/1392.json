@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot Keep"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Angry"
+      "value": "Simian Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Nuke Dukem"
+      "value": "ReBoot Aviator"
     },
     {
       "trait_type": "Head",
-      "value": "Dreadlocks"
+      "value": "Barbarian Helmet"
     }
   ],
   "properties": {

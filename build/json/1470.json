@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Surprised"
+      "value": "Orc Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Solana Jersey"
+      "value": "Trench Coat"
     },
     {
       "trait_type": "Head",
-      "value": "ReBoot Trucker"
+      "value": "Black Bandana"
     }
   ],
   "properties": {

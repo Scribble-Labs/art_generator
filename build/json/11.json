@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot Keep"
+      "value": "None"
     },
     {
       "trait_type": "Species",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Light Surprised"
+      "value": "Light Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Spartan ODU"
+      "value": "Mage Cloak"
     },
     {
       "trait_type": "Head",
-      "value": "Sombrero"
+      "value": "Legion Helmet"
     }
   ],
   "properties": {

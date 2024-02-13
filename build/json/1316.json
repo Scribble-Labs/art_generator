@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Stoned"
+      "value": "Light Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cloud"
+      "value": "First Knight"
     },
     {
       "trait_type": "Head",
-      "value": "Ski Mask"
+      "value": "First Knight Helm"
     }
   ],
   "properties": {

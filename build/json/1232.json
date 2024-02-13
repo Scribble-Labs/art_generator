@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Black"
+      "value": "Dark Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Critters Jersey"
+      "value": "Cult Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "Golden Mane"
+      "value": "Tactical Helmet"
     }
   ],
   "properties": {

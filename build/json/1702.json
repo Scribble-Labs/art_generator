@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Happy"
+      "value": "Simian Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Samurai"
+      "value": "Bulletproof Vest"
     },
     {
       "trait_type": "Head",
-      "value": "White Bandana"
+      "value": "Gun Top"
     }
   ],
   "properties": {

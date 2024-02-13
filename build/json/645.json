@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Happy"
+      "value": "Simian Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Navy Suit"
+      "value": "Mage Cloak"
     },
     {
       "trait_type": "Head",
-      "value": "Tactical Helmet"
+      "value": "Man Bun"
     }
   ],
   "properties": {

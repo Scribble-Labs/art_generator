@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -25,11 +25,11 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Artist Overalls"
+      "value": "Sailor"
     },
     {
       "trait_type": "Head",
-      "value": "Vipers"
+      "value": "Legion Helmet"
     }
   ],
   "properties": {

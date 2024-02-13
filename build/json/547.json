@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Stoned"
+      "value": "Light Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "First Knight"
+      "value": "Desert Camo ACU"
     },
     {
       "trait_type": "Head",
-      "value": "Solana Cap"
+      "value": "Valkyrie"
     }
   ],
   "properties": {

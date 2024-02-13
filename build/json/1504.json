@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Devil"
+      "value": "Orc Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mage Cloak"
+      "value": "Steampunk Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Bucket Hat"
+      "value": "ZAMN"
     }
   ],
   "properties": {

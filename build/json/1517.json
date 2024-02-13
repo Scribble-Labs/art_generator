@@ -13,23 +13,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Apocalyptic City"
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Light White"
+      "value": "Orc Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Solana Jersey"
+      "value": "Brown Suit"
     },
     {
       "trait_type": "Head",
-      "value": "Dreadlocks"
+      "value": "Bucket Hat"
     }
   ],
   "properties": {

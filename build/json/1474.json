@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Stoned"
+      "value": "Simian White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cyberpunk Jacket"
+      "value": "Black Suit"
     },
     {
       "trait_type": "Head",
-      "value": "Solana Cap"
+      "value": "Hipster Red"
     }
   ],
   "properties": {

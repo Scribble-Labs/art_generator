@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Stoned"
+      "value": "Undead Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "First Knight"
+      "value": "Spartan ODU"
     },
     {
       "trait_type": "Head",
-      "value": "Oni Mask"
+      "value": "Clean Fade"
     }
   ],
   "properties": {

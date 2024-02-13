@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Mushroom Kingdom"
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Stoned"
+      "value": "Light Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Sailor"
+      "value": "MF Jersey"
     },
     {
       "trait_type": "Head",
-      "value": "Dreadlocks"
+      "value": "First Knight Helm"
     }
   ],
   "properties": {

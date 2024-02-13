@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Devil"
+      "value": "Light White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Royal Officer"
+      "value": "Cult Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "Mage Hat"
+      "value": "Legion Helmet"
     }
   ],
   "properties": {

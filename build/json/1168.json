@@ -13,23 +13,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot Keep"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Black"
+      "value": "Undead Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Artist Overalls"
+      "value": "Samurai"
     },
     {
       "trait_type": "Head",
-      "value": "Gun Top"
+      "value": "ReBoot Trucker"
     }
   ],
   "properties": {

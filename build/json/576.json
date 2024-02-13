@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Angel"
+      "value": "Dark Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Artist Overalls"
+      "value": "Desert Camo ACU"
     },
     {
       "trait_type": "Head",
-      "value": "No Hat"
+      "value": "Gun Top"
     }
   ],
   "properties": {

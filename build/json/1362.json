@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Stoned"
+      "value": "Dark Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cloud"
+      "value": "Royal Officer"
     },
     {
       "trait_type": "Head",
-      "value": "Oni Mask"
+      "value": "Mage Hat"
     }
   ],
   "properties": {

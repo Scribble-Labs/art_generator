@@ -13,23 +13,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Mushroom Kingdom"
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Devil"
+      "value": "Undead White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Desert Camo ACU"
+      "value": "BK Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "Undercut"
+      "value": "Mage Hat"
     }
   ],
   "properties": {

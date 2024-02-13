@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Black"
+      "value": "Dark Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "BK Shirt"
+      "value": "Buccaneer Coat"
     },
     {
       "trait_type": "Head",
-      "value": "Golden Mane"
+      "value": "Sombrero"
     }
   ],
   "properties": {

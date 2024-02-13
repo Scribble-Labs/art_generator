@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Angry"
+      "value": "Light Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Sailor"
+      "value": "Spartan ODU"
     },
     {
       "trait_type": "Head",
-      "value": "Bucket Hat"
+      "value": "Cowboy Hat"
     }
   ],
   "properties": {

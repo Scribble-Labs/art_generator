@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark White"
+      "value": "Light Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Royal Officer"
+      "value": "Black Suit"
     },
     {
       "trait_type": "Head",
-      "value": "Black Bandana"
+      "value": "White Bandana"
     }
   ],
   "properties": {

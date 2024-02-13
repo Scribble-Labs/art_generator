@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Mushroom Kingdom"
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Surprised"
+      "value": "Light Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Royal Officer"
+      "value": "Navy Suit"
     },
     {
       "trait_type": "Head",
-      "value": "ReBoot Trucker"
+      "value": "Legion Helmet"
     }
   ],
   "properties": {

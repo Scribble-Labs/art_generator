@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Apocalyptic City"
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead White"
+      "value": "Dark White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cloud"
+      "value": "Florida Man"
     },
     {
       "trait_type": "Head",
-      "value": "Gun Top"
+      "value": "Valkyrie"
     }
   ],
   "properties": {

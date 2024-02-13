@@ -17,11 +17,11 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Black"
+      "value": "Dark Stoned"
     },
     {
       "trait_type": "Clothing",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "Head",
-      "value": "Legion Helmet"
+      "value": "ReBoot Trucker"
     }
   ],
   "properties": {

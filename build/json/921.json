@@ -13,7 +13,7 @@
     },
     {
       "trait_type": "Background",
-      "value": "Ethereal Forest"
+      "value": "None"
     },
     {
       "trait_type": "Species",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Simian White"
+      "value": "Simian Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "BK Shirt"
+      "value": "Hypebeast Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "First Knight Helm"
+      "value": "Hadoken"
     }
   ],
   "properties": {

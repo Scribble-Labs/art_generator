@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Starry Night"
     },
     {
       "trait_type": "Background",
@@ -25,11 +25,11 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Goron Tunic"
+      "value": "Nuke Dukem"
     },
     {
       "trait_type": "Head",
-      "value": "ReBoot Trucker"
+      "value": "Gray Cowboy Hat"
     }
   ],
   "properties": {

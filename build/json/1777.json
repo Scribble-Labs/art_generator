@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Apocalyptic City"
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Black"
+      "value": "Dark Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Samurai"
+      "value": "Legion Breastplate"
     },
     {
       "trait_type": "Head",
-      "value": "Tactical Helmet"
+      "value": "ReBoot Trucker"
     }
   ],
   "properties": {

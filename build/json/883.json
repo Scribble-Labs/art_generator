@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
-      "value": "Apocalyptic City"
+      "value": "None"
     },
     {
       "trait_type": "Species",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Black"
+      "value": "Dark White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Solana Jersey"
+      "value": "Buccaneer Coat"
     },
     {
       "trait_type": "Head",
-      "value": "Solana Cap"
+      "value": "Gray Cowboy Hat"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Angel"
+      "value": "Dark Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Spartan ODU"
+      "value": "Legion Breastplate"
     },
     {
       "trait_type": "Head",
-      "value": "Bucket Hat"
+      "value": "Gun Top"
     }
   ],
   "properties": {

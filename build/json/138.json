@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Angry"
+      "value": "Simian Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Artist Overalls"
+      "value": "Buccaneer Coat"
     },
     {
       "trait_type": "Head",
-      "value": "Clean Fade"
+      "value": "Bucket Hat"
     }
   ],
   "properties": {

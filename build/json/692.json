@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Devil"
+      "value": "Orc Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Navy Suit"
+      "value": "Buccaneer Coat"
     },
     {
       "trait_type": "Head",
-      "value": "Kangol"
+      "value": "Gun Top"
     }
   ],
   "properties": {

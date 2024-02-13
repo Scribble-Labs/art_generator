@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Surprised"
+      "value": "Simian Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Navy Suit"
+      "value": "Denim Jacket"
     },
     {
       "trait_type": "Head",
-      "value": "Kangol"
+      "value": "Gangster Hat"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Doom"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Angel"
+      "value": "Orc Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Steampunk Armor"
+      "value": "Forest Camo ACU"
     },
     {
       "trait_type": "Head",
-      "value": "Gun Top"
+      "value": "Blonde"
     }
   ],
   "properties": {

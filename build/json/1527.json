@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Angry"
+      "value": "Orc Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Black Suit"
+      "value": "Navy Suit"
     },
     {
       "trait_type": "Head",
-      "value": "Hipster Blue"
+      "value": "Ski Mask"
     }
   ],
   "properties": {

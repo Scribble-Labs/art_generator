@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc White"
+      "value": "Undead Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "BK Shirt"
+      "value": "Mage Cloak"
     },
     {
       "trait_type": "Head",
-      "value": "Black Bandana"
+      "value": "ZAMN"
     }
   ],
   "properties": {

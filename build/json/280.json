@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Dark White"
+      "value": "Dark Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Legion Breastplate"
+      "value": "Samurai"
     },
     {
       "trait_type": "Head",
-      "value": "Vipers"
+      "value": "Gun Top"
     }
   ],
   "properties": {

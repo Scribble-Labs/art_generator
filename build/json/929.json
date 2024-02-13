@@ -13,23 +13,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "Apocalyptic City"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Happy"
+      "value": "Dark Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Spartan ODU"
+      "value": "Denim Jacket"
     },
     {
       "trait_type": "Head",
-      "value": "Brunet"
+      "value": "Gun Top"
     }
   ],
   "properties": {

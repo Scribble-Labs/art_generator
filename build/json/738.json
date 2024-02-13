@@ -13,7 +13,7 @@
     },
     {
       "trait_type": "Background",
-      "value": "Apocalyptic City"
+      "value": "Mushroom Kingdom"
     },
     {
       "trait_type": "Species",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Light Angry"
+      "value": "Light White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Highborn Knight Armor"
+      "value": "Barbarian Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Golden Mane"
+      "value": "Buccaneer Cap"
     }
   ],
   "properties": {

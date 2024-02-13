@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Doom"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot City"
+      "value": "ReBoot Keep"
     },
     {
       "trait_type": "Species",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Black"
+      "value": "Simian Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Sailor"
+      "value": "Forest Camo ACU"
     },
     {
       "trait_type": "Head",
-      "value": "Barbarian Helmet"
+      "value": "Tactical Helmet"
     }
   ],
   "properties": {

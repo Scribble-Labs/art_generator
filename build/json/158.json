@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Happy"
+      "value": "Undead Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Florida Man"
+      "value": "Critters Jersey"
     },
     {
       "trait_type": "Head",
-      "value": "Brunet"
+      "value": "White Bandana"
     }
   ],
   "properties": {

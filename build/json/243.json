@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot Theme Park"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Stoned"
+      "value": "Simian Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "Navy Suit"
+      "value": "Bulletproof Vest"
     },
     {
       "trait_type": "Head",
-      "value": "Hipster Red"
+      "value": "Black Bandana"
     }
   ],
   "properties": {

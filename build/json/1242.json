@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Black"
+      "value": "Orc Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "First Knight"
+      "value": "Bulletproof Vest"
     },
     {
       "trait_type": "Head",
-      "value": "Mage Hat"
+      "value": "Bucket Hat"
     }
   ],
   "properties": {

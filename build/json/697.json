@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Black"
+      "value": "Simian Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mage Cloak"
+      "value": "Tribal Poncho"
     },
     {
       "trait_type": "Head",
-      "value": "Sailor Hat"
+      "value": "Legion Helmet"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Happy"
+      "value": "Dark Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Solana Jersey"
+      "value": "Hypebeast Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "BK Hat"
+      "value": "Hadoken"
     }
   ],
   "properties": {

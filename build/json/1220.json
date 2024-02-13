@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
-      "value": "Apocalyptic City"
+      "value": "Necrothorns Abyss"
     },
     {
       "trait_type": "Species",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Light Stoned"
+      "value": "Light White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Solana Jersey"
+      "value": "Mage Cloak"
     },
     {
       "trait_type": "Head",
-      "value": "No Hat"
+      "value": "Hipster Blue"
     }
   ],
   "properties": {

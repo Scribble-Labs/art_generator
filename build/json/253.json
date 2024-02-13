@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -21,11 +21,11 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Angel"
+      "value": "Dark White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Brown Suit"
+      "value": "Artist Overalls"
     },
     {
       "trait_type": "Head",

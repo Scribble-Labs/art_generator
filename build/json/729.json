@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Angry"
+      "value": "Orc Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Spartan ODU"
+      "value": "Solana Jersey"
     },
     {
       "trait_type": "Head",
-      "value": "Kangol"
+      "value": "Solana Cap"
     }
   ],
   "properties": {

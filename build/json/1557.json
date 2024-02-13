@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Doom"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
-      "value": "Ethereal Forest"
+      "value": "Apocalyptic City"
     },
     {
       "trait_type": "Species",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Devil"
+      "value": "Orc Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Legion Breastplate"
+      "value": "ReBoot Aviator"
     },
     {
       "trait_type": "Head",
-      "value": "White Bandana"
+      "value": "Oni Mask"
     }
   ],
   "properties": {

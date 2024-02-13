@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian White"
+      "value": "Light Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mage Cloak"
+      "value": "Navy Suit"
     },
     {
       "trait_type": "Head",
-      "value": "Barbarian Helmet"
+      "value": "Forest Camo Helmet"
     }
   ],
   "properties": {

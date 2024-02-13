@@ -13,23 +13,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Ethereal Forest"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Angel"
+      "value": "Dark Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Trench Coat"
+      "value": "Royal Officer"
     },
     {
       "trait_type": "Head",
-      "value": "Undercut"
+      "value": "Chartist"
     }
   ],
   "properties": {

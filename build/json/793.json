@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Black"
+      "value": "Orc Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Brown Suit"
+      "value": "BK Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "Black Bandana"
+      "value": "Gangster Hat"
     }
   ],
   "properties": {

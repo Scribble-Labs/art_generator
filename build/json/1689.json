@@ -13,7 +13,7 @@
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot City"
+      "value": "None"
     },
     {
       "trait_type": "Species",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Angry"
+      "value": "Orc Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Fosace Robe"
+      "value": "Samurai"
     },
     {
       "trait_type": "Head",
-      "value": "Dreadlocks"
+      "value": "Bucket Hat"
     }
   ],
   "properties": {

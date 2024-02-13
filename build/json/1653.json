@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -25,11 +25,11 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Mage Cloak"
+      "value": "Cloud"
     },
     {
       "trait_type": "Head",
-      "value": "Bucket Hat"
+      "value": "Barbarian Helmet"
     }
   ],
   "properties": {

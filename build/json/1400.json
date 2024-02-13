@@ -13,23 +13,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "ReBoot Keep"
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Angry"
+      "value": "Orc Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cloud"
+      "value": "Florida Man"
     },
     {
       "trait_type": "Head",
-      "value": "Golden Mane"
+      "value": "Cowboy Hat"
     }
   ],
   "properties": {

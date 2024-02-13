@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Stoned"
+      "value": "Orc Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Florida Man"
+      "value": "Cloud"
     },
     {
       "trait_type": "Head",
-      "value": "Mage Hat"
+      "value": "The King"
     }
   ],
   "properties": {

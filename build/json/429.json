@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Black"
+      "value": "Undead Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Solana Jersey"
+      "value": "Cyberpunk Jacket"
     },
     {
       "trait_type": "Head",
-      "value": "ReBoot Trucker"
+      "value": "Legion Helmet"
     }
   ],
   "properties": {

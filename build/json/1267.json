@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Happy"
+      "value": "Dark Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "MF Jersey"
+      "value": "Trench Coat"
     },
     {
       "trait_type": "Head",
-      "value": "Legion Helmet"
+      "value": "Undercut"
     }
   ],
   "properties": {

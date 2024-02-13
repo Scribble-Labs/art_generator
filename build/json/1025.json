@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Surprised"
+      "value": "Undead Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Fosace Robe"
+      "value": "Mage Cloak"
     },
     {
       "trait_type": "Head",
-      "value": "Dreadlocks"
+      "value": "Black Bandana"
     }
   ],
   "properties": {

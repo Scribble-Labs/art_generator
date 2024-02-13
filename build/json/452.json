@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Angry"
+      "value": "Undead White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Denim Jacket"
+      "value": "Artist Overalls"
     },
     {
       "trait_type": "Head",
-      "value": "Clean Fade"
+      "value": "Undercut"
     }
   ],
   "properties": {

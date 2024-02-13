@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -25,11 +25,11 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Samurai"
+      "value": "Denim Jacket"
     },
     {
       "trait_type": "Head",
-      "value": "Vipers"
+      "value": "Gray Cowboy Hat"
     }
   ],
   "properties": {

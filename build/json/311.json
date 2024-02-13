@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Angel"
+      "value": "Dark White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Fosace Robe"
+      "value": "Navy Suit"
     },
     {
       "trait_type": "Head",
-      "value": "Gun Top"
+      "value": "ReBoot Trucker"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Doom"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Black"
+      "value": "Dark Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Buccaneer Coat"
+      "value": "Samurai"
     },
     {
       "trait_type": "Head",
-      "value": "Barbarian Helmet"
+      "value": "Ski Mask"
     }
   ],
   "properties": {

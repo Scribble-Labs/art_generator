@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Happy"
+      "value": "Light White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Goron Tunic"
+      "value": "Brown Suit"
     },
     {
       "trait_type": "Head",
-      "value": "Newsboy"
+      "value": "Kangol"
     }
   ],
   "properties": {

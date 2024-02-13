@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Mushroom Kingdom"
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Black"
+      "value": "Undead Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Solana Jersey"
+      "value": "Tribal Poncho"
     },
     {
       "trait_type": "Head",
-      "value": "The King"
+      "value": "Brunet"
     }
   ],
   "properties": {

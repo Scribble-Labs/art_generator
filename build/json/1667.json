@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Stoned"
+      "value": "Orc Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Denim Jacket"
+      "value": "Forest Camo ACU"
     },
     {
       "trait_type": "Head",
-      "value": "Clean Fade"
+      "value": "Golden Mane"
     }
   ],
   "properties": {

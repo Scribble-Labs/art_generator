@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Surprised"
+      "value": "Orc White"
     },
     {
       "trait_type": "Clothing",
-      "value": "BK Shirt"
+      "value": "Denim Jacket"
     },
     {
       "trait_type": "Head",
-      "value": "No Hat"
+      "value": "Ski Mask"
     }
   ],
   "properties": {

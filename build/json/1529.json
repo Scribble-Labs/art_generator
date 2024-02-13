@@ -13,23 +13,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "Ethereal Forest"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Black"
+      "value": "Light Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "Samurai"
+      "value": "Mage Cloak"
     },
     {
       "trait_type": "Head",
-      "value": "Mage Hat"
+      "value": "ZAMN"
     }
   ],
   "properties": {

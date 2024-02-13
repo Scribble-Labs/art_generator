@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
-      "value": "Mushroom Kingdom"
+      "value": "None"
     },
     {
       "trait_type": "Species",
@@ -21,7 +21,7 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Light Black"
+      "value": "Light White"
     },
     {
       "trait_type": "Clothing",
@@ -29,7 +29,7 @@
     },
     {
       "trait_type": "Head",
-      "value": "Mage Hat"
+      "value": "First Knight Helm"
     }
   ],
   "properties": {

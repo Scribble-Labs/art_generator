@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Surprised"
+      "value": "Dark Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "Black Suit"
+      "value": "ReBoot Aviator"
     },
     {
       "trait_type": "Head",
-      "value": "First Knight Helm"
+      "value": "Brunet"
     }
   ],
   "properties": {

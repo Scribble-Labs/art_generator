@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Black"
+      "value": "Undead Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Fosace Robe"
+      "value": "Buccaneer Coat"
     },
     {
       "trait_type": "Head",
-      "value": "Dreadlocks"
+      "value": "Gray Cowboy Hat"
     }
   ],
   "properties": {

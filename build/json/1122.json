@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Black"
+      "value": "Orc Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Artist Overalls"
+      "value": "Royal Officer"
     },
     {
       "trait_type": "Head",
-      "value": "Hipster Blue"
+      "value": "Legion Helmet"
     }
   ],
   "properties": {

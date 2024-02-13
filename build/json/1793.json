@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Happy"
+      "value": "Undead White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Royal Officer"
+      "value": "BK Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "White Bandana"
+      "value": "Gun Top"
     }
   ],
   "properties": {

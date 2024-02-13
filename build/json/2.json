@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Angel"
+      "value": "Undead Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Navy Suit"
+      "value": "Nuke Dukem"
     },
     {
       "trait_type": "Head",
-      "value": "Gun Top"
+      "value": "Undercut"
     }
   ],
   "properties": {

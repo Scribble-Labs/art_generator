@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Apocalyptic City"
     },
     {
       "trait_type": "Species",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Surprised"
+      "value": "Simian White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mage Cloak"
+      "value": "Forest Camo ACU"
     },
     {
       "trait_type": "Head",
-      "value": "Newsboy"
+      "value": "Hipster Red"
     }
   ],
   "properties": {

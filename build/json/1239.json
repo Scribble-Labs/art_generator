@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "ReBoot Theme Park"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc White"
+      "value": "Simian Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Artist Overalls"
+      "value": "Sailor"
     },
     {
       "trait_type": "Head",
-      "value": "Hadoken"
+      "value": "Gray Cowboy Hat"
     }
   ],
   "properties": {

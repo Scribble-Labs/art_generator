@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Apocalyptic City"
     },
     {
       "trait_type": "Species",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Light Angel"
+      "value": "Light Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Denim Jacket"
+      "value": "Navy Suit"
     },
     {
       "trait_type": "Head",
-      "value": "Sombrero"
+      "value": "Kangol"
     }
   ],
   "properties": {

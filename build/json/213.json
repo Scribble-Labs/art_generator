@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
-      "value": "Necrothorns Abyss"
+      "value": "None"
     },
     {
       "trait_type": "Species",
@@ -25,11 +25,11 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "First Knight"
+      "value": "Florida Man"
     },
     {
       "trait_type": "Head",
-      "value": "Undercut"
+      "value": "Barbarian Helmet"
     }
   ],
   "properties": {

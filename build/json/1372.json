@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Stoned"
+      "value": "Simian Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Goron Tunic"
+      "value": "Black Suit"
     },
     {
       "trait_type": "Head",
-      "value": "Barbarian Helmet"
+      "value": "The King"
     }
   ],
   "properties": {

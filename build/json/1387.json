@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Black"
+      "value": "Simian Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cyberpunk Jacket"
+      "value": "Buccaneer Coat"
     },
     {
       "trait_type": "Head",
-      "value": "Legion Helmet"
+      "value": "Clean Fade"
     }
   ],
   "properties": {

@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Black"
+      "value": "Light Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Artist Overalls"
+      "value": "Cult Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "Gangster Hat"
+      "value": "Forest Camo Helmet"
     }
   ],
   "properties": {

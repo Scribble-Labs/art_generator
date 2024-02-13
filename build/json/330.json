@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Surprised"
+      "value": "Dark Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Bulletproof Vest"
+      "value": "Samurai"
     },
     {
       "trait_type": "Head",
-      "value": "The King"
+      "value": "Sailor Hat"
     }
   ],
   "properties": {

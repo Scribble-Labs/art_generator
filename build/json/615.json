@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Happy"
+      "value": "Dark Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Trench Coat"
+      "value": "Desert Camo ACU"
     },
     {
       "trait_type": "Head",
-      "value": "Mage Hat"
+      "value": "Sailor Hat"
     }
   ],
   "properties": {

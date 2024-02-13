@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Happy"
+      "value": "Orc Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Sailor"
+      "value": "Tribal Poncho"
     },
     {
       "trait_type": "Head",
-      "value": "Ski Mask"
+      "value": "Tactical Helmet"
     }
   ],
   "properties": {

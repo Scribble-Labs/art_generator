@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Angry"
+      "value": "Simian Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cloud"
+      "value": "Samurai"
     },
     {
       "trait_type": "Head",
-      "value": "Barbarian Helmet"
+      "value": "Hipster Blue"
     }
   ],
   "properties": {

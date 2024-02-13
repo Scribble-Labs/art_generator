@@ -13,23 +13,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot Keep"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Black"
+      "value": "Light Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Buccaneer Coat"
+      "value": "ReBoot Aviator"
     },
     {
       "trait_type": "Head",
-      "value": "ReBoot Trucker"
+      "value": "Oni Mask"
     }
   ],
   "properties": {

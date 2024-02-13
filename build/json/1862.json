@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Happy"
+      "value": "Orc Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Black Suit"
+      "value": "Florida Man"
     },
     {
       "trait_type": "Head",
-      "value": "Solana Cap"
+      "value": "Tactical Helmet"
     }
   ],
   "properties": {

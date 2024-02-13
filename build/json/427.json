@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Surprised"
+      "value": "Simian Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cyberpunk Jacket"
+      "value": "Tribal Poncho"
     },
     {
       "trait_type": "Head",
-      "value": "Dreadlocks"
+      "value": "Bucket Hat"
     }
   ],
   "properties": {

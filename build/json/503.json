@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Angry"
+      "value": "Light Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Tribal Poncho"
+      "value": "Solana Jersey"
     },
     {
       "trait_type": "Head",
-      "value": "Kangol"
+      "value": "Cowboy Hat"
     }
   ],
   "properties": {

@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Black"
+      "value": "Dark Angel"
     },
     {
       "trait_type": "Clothing",
-      "value": "Solana Jersey"
+      "value": "Desert Camo ACU"
     },
     {
       "trait_type": "Head",
-      "value": "Bucket Hat"
+      "value": "Newsboy"
     }
   ],
   "properties": {

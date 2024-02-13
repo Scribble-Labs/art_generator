@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Doom"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Light White"
+      "value": "Dark Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Trench Coat"
+      "value": "Legion Breastplate"
     },
     {
       "trait_type": "Head",
-      "value": "Clean Fade"
+      "value": "Cowboy Hat"
     }
   ],
   "properties": {

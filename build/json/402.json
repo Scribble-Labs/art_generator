@@ -13,23 +13,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "Mushroom Kingdom"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Black"
+      "value": "Light Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Bulletproof Vest"
+      "value": "Desert Camo ACU"
     },
     {
       "trait_type": "Head",
-      "value": "Solana Cap"
+      "value": "Man Bun"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Happy"
+      "value": "Simian White"
     },
     {
       "trait_type": "Clothing",
-      "value": "Black Suit"
+      "value": "Denim Jacket"
     },
     {
       "trait_type": "Head",
-      "value": "ZAMN"
+      "value": "Sombrero"
     }
   ],
   "properties": {

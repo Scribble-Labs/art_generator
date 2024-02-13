@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Surprised"
+      "value": "Simian White"
     },
     {
       "trait_type": "Clothing",
-      "value": "First Knight"
+      "value": "Desert Camo ACU"
     },
     {
       "trait_type": "Head",
-      "value": "Undercut"
+      "value": "Solana Cap"
     }
   ],
   "properties": {

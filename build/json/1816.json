@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Black"
+      "value": "Dark Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "BK Shirt"
+      "value": "Cyberpunk Jacket"
     },
     {
       "trait_type": "Head",
-      "value": "White Bandana"
+      "value": "Man Bun"
     }
   ],
   "properties": {

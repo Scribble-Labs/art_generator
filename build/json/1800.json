@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Devil"
+      "value": "Orc Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "MF Jersey"
+      "value": "Fosace Robe"
     },
     {
       "trait_type": "Head",
-      "value": "Forest Camo Helmet"
+      "value": "Man Bun"
     }
   ],
   "properties": {

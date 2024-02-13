@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Happy"
+      "value": "Simian Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Sailor"
+      "value": "Florida Man"
     },
     {
       "trait_type": "Head",
-      "value": "Legion Helmet"
+      "value": "Mage Hat"
     }
   ],
   "properties": {

@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Apocalyptic City"
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark White"
+      "value": "Simian Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Brown Suit"
+      "value": "Denim Jacket"
     },
     {
       "trait_type": "Head",
-      "value": "Chartist"
+      "value": "Newsboy"
     }
   ],
   "properties": {

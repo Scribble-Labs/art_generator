@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Angel"
+      "value": "Simian Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Goron Tunic"
+      "value": "Cloud"
     },
     {
       "trait_type": "Head",
-      "value": "Legion Helmet"
+      "value": "Cowboy Hat"
     }
   ],
   "properties": {

@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Ethereal Forest"
     },
     {
       "trait_type": "Species",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Light Stoned"
+      "value": "Light Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Goron Tunic"
+      "value": "Mage Cloak"
     },
     {
       "trait_type": "Head",
-      "value": "Black Bandana"
+      "value": "Bucket Hat"
     }
   ],
   "properties": {

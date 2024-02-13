@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Black"
+      "value": "Simian Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Samurai"
+      "value": "Solana Jersey"
     },
     {
       "trait_type": "Head",
-      "value": "ReBoot Trucker"
+      "value": "Solana Cap"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Angel"
+      "value": "Undead Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Black Suit"
+      "value": "Tribal Poncho"
     },
     {
       "trait_type": "Head",
-      "value": "Tactical Helmet"
+      "value": "Hadoken"
     }
   ],
   "properties": {

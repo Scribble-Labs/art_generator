@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Angry"
+      "value": "Dark Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Royal Officer"
+      "value": "Spartan ODU"
     },
     {
       "trait_type": "Head",
-      "value": "Clean Fade"
+      "value": "ReBoot Trucker"
     }
   ],
   "properties": {

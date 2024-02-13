@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot City"
+      "value": "None"
     },
     {
       "trait_type": "Species",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Surprised"
+      "value": "Undead Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "First Knight"
+      "value": "Florida Man"
     },
     {
       "trait_type": "Head",
-      "value": "Vipers"
+      "value": "The King"
     }
   ],
   "properties": {

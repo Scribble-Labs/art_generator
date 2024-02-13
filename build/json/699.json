@@ -13,23 +13,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "None"
+      "value": "Ethereal Forest"
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Dark Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Angry"
+      "value": "Dark Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Desert Camo ACU"
+      "value": "Mage Cloak"
     },
     {
       "trait_type": "Head",
-      "value": "Barbarian Helmet"
+      "value": "Gray Cowboy Hat"
     }
   ],
   "properties": {

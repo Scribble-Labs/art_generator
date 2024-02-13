@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Stoned"
+      "value": "Orc Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Critters Jersey"
+      "value": "ReBoot Aviator"
     },
     {
       "trait_type": "Head",
-      "value": "Solana Cap"
+      "value": "ReBoot Trucker"
     }
   ],
   "properties": {

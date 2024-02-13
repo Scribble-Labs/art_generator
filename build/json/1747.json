@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Stoned"
+      "value": "Light Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Navy Suit"
+      "value": "Cloud"
     },
     {
       "trait_type": "Head",
-      "value": "Brunet"
+      "value": "Cowboy Hat"
     }
   ],
   "properties": {

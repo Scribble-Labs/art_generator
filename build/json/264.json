@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Solana"
+      "value": "Starry Night"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Dark White"
+      "value": "Dark Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Spartan ODU"
+      "value": "Goron Tunic"
     },
     {
       "trait_type": "Head",
-      "value": "Kangol"
+      "value": "Bucket Hat"
     }
   ],
   "properties": {

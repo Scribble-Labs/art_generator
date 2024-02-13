@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Doom"
+      "value": "Starry Night"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Angry"
+      "value": "Undead Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Artist Overalls"
+      "value": "Cult Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "The King"
+      "value": "Barbarian Helmet"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Doom"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Undead Elf"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Undead Surprised"
+      "value": "Light Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Royal Officer"
+      "value": "Buccaneer Coat"
     },
     {
       "trait_type": "Head",
-      "value": "Mage Hat"
+      "value": "White Bandana"
     }
   ],
   "properties": {

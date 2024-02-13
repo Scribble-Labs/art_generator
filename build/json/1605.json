@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Gloomy"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
-      "value": "Ethereal Forest"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Simian"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Simian Angry"
+      "value": "Orc Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Brown Suit"
+      "value": "Cult Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "Cowboy Hat"
+      "value": "Sombrero"
     }
   ],
   "properties": {

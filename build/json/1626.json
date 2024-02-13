@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Doom"
     },
     {
       "trait_type": "Background",
-      "value": "Apocalyptic City"
+      "value": "Ethereal Forest"
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark White"
+      "value": "Light Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Black Suit"
+      "value": "MF Jersey"
     },
     {
       "trait_type": "Head",
-      "value": "Gun Top"
+      "value": "Tactical Helmet"
     }
   ],
   "properties": {

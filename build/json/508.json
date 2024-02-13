@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -25,11 +25,11 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Desert Camo ACU"
+      "value": "Black Suit"
     },
     {
       "trait_type": "Head",
-      "value": "No Hat"
+      "value": "Forest Camo Helmet"
     }
   ],
   "properties": {

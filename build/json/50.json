@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Light White"
+      "value": "Orc Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Denim Jacket"
+      "value": "Florida Man"
     },
     {
       "trait_type": "Head",
-      "value": "Valkyrie"
+      "value": "Clean Fade"
     }
   ],
   "properties": {

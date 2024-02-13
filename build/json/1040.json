@@ -9,11 +9,11 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot City"
+      "value": "None"
     },
     {
       "trait_type": "Species",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Light White"
+      "value": "Light Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Samurai"
+      "value": "BK Shirt"
     },
     {
       "trait_type": "Head",
-      "value": "Sailor Hat"
+      "value": "Hipster Red"
     }
   ],
   "properties": {

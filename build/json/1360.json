@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Stoned"
+      "value": "Simian Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Artist Overalls"
+      "value": "Legion Breastplate"
     },
     {
       "trait_type": "Head",
-      "value": "Vipers"
+      "value": "Kangol"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -21,15 +21,15 @@
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Surprised"
+      "value": "Dark Devil"
     },
     {
       "trait_type": "Clothing",
-      "value": "Artist Overalls"
+      "value": "Steampunk Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Gun Top"
+      "value": "Tactical Helmet"
     }
   ],
   "properties": {

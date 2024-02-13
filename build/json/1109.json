@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Doom"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot City"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Happy"
+      "value": "Light Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Florida Man"
+      "value": "ReBoot Aviator"
     },
     {
       "trait_type": "Head",
-      "value": "Valkyrie"
+      "value": "Tactical Helmet"
     }
   ],
   "properties": {

@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Purple Haze"
+      "value": "Florida Orange"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Surprised"
+      "value": "Undead Happy"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mage Cloak"
+      "value": "Trench Coat"
     },
     {
       "trait_type": "Head",
-      "value": "Ski Mask"
+      "value": "Cowboy Hat"
     }
   ],
   "properties": {

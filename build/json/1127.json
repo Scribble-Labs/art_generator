@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
-      "value": "Apocalyptic City"
+      "value": "ReBoot Theme Park"
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Orc"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Stoned"
+      "value": "Orc White"
     },
     {
       "trait_type": "Clothing",
-      "value": "First Knight"
+      "value": "Black Suit"
     },
     {
       "trait_type": "Head",
-      "value": "Bucket Hat"
+      "value": "Man Bun"
     }
   ],
   "properties": {

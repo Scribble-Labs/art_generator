@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Sandstorm"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot City"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Undead Elf"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Happy"
+      "value": "Undead Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Cloud"
+      "value": "Tribal Poncho"
     },
     {
       "trait_type": "Head",
-      "value": "Bucket Hat"
+      "value": "Buccaneer Cap"
     }
   ],
   "properties": {

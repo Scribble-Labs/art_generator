@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Blue"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Angel"
+      "value": "Simian Stoned"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mando Armor"
+      "value": "Cloud"
     },
     {
       "trait_type": "Head",
-      "value": "Tactical Helmet"
+      "value": "Mage Hat"
     }
   ],
   "properties": {

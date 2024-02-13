@@ -13,23 +13,23 @@
     },
     {
       "trait_type": "Background",
-      "value": "Necrothorns Abyss"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Light Human"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark Angry"
+      "value": "Light Angry"
     },
     {
       "trait_type": "Clothing",
-      "value": "Sailor"
+      "value": "Mando Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Chartist"
+      "value": "ReBoot Trucker"
     }
   ],
   "properties": {

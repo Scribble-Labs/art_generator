@@ -9,27 +9,27 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Blue"
+      "value": "Purple Haze"
     },
     {
       "trait_type": "Background",
-      "value": "ReBoot Theme Park"
+      "value": "None"
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Angel"
+      "value": "Simian Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Royal Officer"
+      "value": "Navy Suit"
     },
     {
       "trait_type": "Head",
-      "value": "No Hat"
+      "value": "Blonde"
     }
   ],
   "properties": {

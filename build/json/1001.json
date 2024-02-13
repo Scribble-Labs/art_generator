@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Starry Night"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Light Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Light Devil"
+      "value": "Simian Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Critters Jersey"
+      "value": "Barbarian Armor"
     },
     {
       "trait_type": "Head",
-      "value": "Blonde"
+      "value": "Man Bun"
     }
   ],
   "properties": {

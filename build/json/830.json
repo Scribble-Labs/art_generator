@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Sandstorm"
+      "value": "Gloomy"
     },
     {
       "trait_type": "Background",
@@ -25,11 +25,11 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Florida Man"
+      "value": "Mage Cloak"
     },
     {
       "trait_type": "Head",
-      "value": "Sailor Hat"
+      "value": "Sombrero"
     }
   ],
   "properties": {

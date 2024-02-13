@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Dark Human"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Dark White"
+      "value": "Simian Black"
     },
     {
       "trait_type": "Clothing",
-      "value": "Navy Suit"
+      "value": "Black Suit"
     },
     {
       "trait_type": "Head",
-      "value": "Barbarian Helmet"
+      "value": "Solana Cap"
     }
   ],
   "properties": {

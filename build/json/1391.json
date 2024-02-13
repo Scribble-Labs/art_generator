@@ -9,7 +9,7 @@
   "attributes": [
     {
       "trait_type": "Sky",
-      "value": "Florida Orange"
+      "value": "Solana"
     },
     {
       "trait_type": "Background",
@@ -17,19 +17,19 @@
     },
     {
       "trait_type": "Species",
-      "value": "Orc"
+      "value": "Simian"
     },
     {
       "trait_type": "Expression",
-      "value": "Orc Angel"
+      "value": "Simian Surprised"
     },
     {
       "trait_type": "Clothing",
-      "value": "Mage Cloak"
+      "value": "Nuke Dukem"
     },
     {
       "trait_type": "Head",
-      "value": "Sailor Hat"
+      "value": "The King"
     }
   ],
   "properties": {
