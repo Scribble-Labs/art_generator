@@ -379,7 +379,11 @@ const startCreating = async () => {
       while (!validCombinationFound && retryCount < maxRetries) {
         let newDna = createDna(layers);
         let results = constructLayerToDna(newDna, layers);
-        if (isDnaUnique(dnaList, newDna) && !isCombinationExcluded(results)) {
+        if (isCombinationExcluded(results)) {
+          console.log("Excluded combination found. Retrying...");
+          continue;
+        };
+        if (isDnaUnique(dnaList, newDna)) {
           validCombinationFound = true;
           let loadedElements = [];
 
@@ -435,7 +439,7 @@ const startCreating = async () => {
           abstractedIndexes.shift();
         } else {
           retryCount++;
-          console.log("DNA exists or combination is excluded.");
+          console.log("DNA exists. Retrying...");
 
           failedCount++;
           if (failedCount >= uniqueDnaTorrance) {
