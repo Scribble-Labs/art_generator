@@ -1,0 +1,50 @@
+{
+  "name": "n00bs #970",
+  "symbol": "n00b",
+  "description": "n00bs bring the iconic heroes and lore from ReBoot Worlds into diversely curated, pixelated PFPs.",
+  "seller_fee_basis_points": 600,
+  "image": "970.png",
+  "external_url": "https://rebootworlds.com/",
+  "edition": 970,
+  "attributes": [
+    {
+      "trait_type": "Sky",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Necrothorns Abyss"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Light Human"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Light Black"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Hypebeast Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Solana Cap"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "970.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4wFD3TewF28RjZNpVk6T1pXWufLpTUMnAJN2ZXwKC8uf",
+        "share": 100
+      }
+    ]
+  }
+}

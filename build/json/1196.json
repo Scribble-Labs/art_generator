@@ -1,0 +1,50 @@
+{
+  "name": "n00bs #1196",
+  "symbol": "n00b",
+  "description": "n00bs bring the iconic heroes and lore from ReBoot Worlds into diversely curated, pixelated PFPs.",
+  "seller_fee_basis_points": 600,
+  "image": "1196.png",
+  "external_url": "https://rebootworlds.com/",
+  "edition": 1196,
+  "attributes": [
+    {
+      "trait_type": "Sky",
+      "value": "Sandstorm"
+    },
+    {
+      "trait_type": "Background",
+      "value": "None"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Undead Elf"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Undead Stoned"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Trench Coat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "White Bandana"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1196.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4wFD3TewF28RjZNpVk6T1pXWufLpTUMnAJN2ZXwKC8uf",
+        "share": 100
+      }
+    ]
+  }
+}

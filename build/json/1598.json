@@ -1,0 +1,50 @@
+{
+  "name": "n00bs #1598",
+  "symbol": "n00b",
+  "description": "n00bs bring the iconic heroes and lore from ReBoot Worlds into diversely curated, pixelated PFPs.",
+  "seller_fee_basis_points": 600,
+  "image": "1598.png",
+  "external_url": "https://rebootworlds.com/",
+  "edition": 1598,
+  "attributes": [
+    {
+      "trait_type": "Sky",
+      "value": "Sandstorm"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Mushroom Kingdom"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Simian"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Simian White"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Spartan ODU"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Undercut"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "1598.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4wFD3TewF28RjZNpVk6T1pXWufLpTUMnAJN2ZXwKC8uf",
+        "share": 100
+      }
+    ]
+  }
+}

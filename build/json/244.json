@@ -1,0 +1,50 @@
+{
+  "name": "n00bs #244",
+  "symbol": "n00b",
+  "description": "n00bs bring the iconic heroes and lore from ReBoot Worlds into diversely curated, pixelated PFPs.",
+  "seller_fee_basis_points": 600,
+  "image": "244.png",
+  "external_url": "https://rebootworlds.com/",
+  "edition": 244,
+  "attributes": [
+    {
+      "trait_type": "Sky",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Necrothorns Abyss"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Dark Human"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Dark Angry"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Desert Camo ACU"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bucket Hat"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "244.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4wFD3TewF28RjZNpVk6T1pXWufLpTUMnAJN2ZXwKC8uf",
+        "share": 100
+      }
+    ]
+  }
+}

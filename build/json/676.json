@@ -1,0 +1,50 @@
+{
+  "name": "n00bs #676",
+  "symbol": "n00b",
+  "description": "n00bs bring the iconic heroes and lore from ReBoot Worlds into diversely curated, pixelated PFPs.",
+  "seller_fee_basis_points": 600,
+  "image": "676.png",
+  "external_url": "https://rebootworlds.com/",
+  "edition": 676,
+  "attributes": [
+    {
+      "trait_type": "Sky",
+      "value": "Florida Orange"
+    },
+    {
+      "trait_type": "Background",
+      "value": "None"
+    },
+    {
+      "trait_type": "Species",
+      "value": "Dark Human"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Dark Stoned"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Cult Shirt"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Hipster Blue"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "676.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4wFD3TewF28RjZNpVk6T1pXWufLpTUMnAJN2ZXwKC8uf",
+        "share": 100
+      }
+    ]
+  }
+}
