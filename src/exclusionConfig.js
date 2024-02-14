@@ -189,6 +189,10 @@ const exclusionRules = [
     Clothing: ["Highborn Knight Armor"],
   },
   {
+    Head: ["Golden Mane"],
+    Clothing: ["Wan Obi Cloak"],
+  },
+  {
     Clothing: ["Clayno Onesie"],
     Head: ["Barbarian Helmet", "BK Hat", "Black Bandana", "Blonde", "Brunet", "Buccaneer Cap", "Bucket Hat",
       "Chartist", "Clean Fade", "Cowboy Hat", "Dreadlocks", "First Knight Helm", "Forest Camo Helmet", "Gangster Hat",
